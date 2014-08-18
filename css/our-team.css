@@ -153,7 +153,7 @@
 	position: fixed;
 	top: 129px;
 	left: 0px;
-	background: transparent url("../images/coloredlogo-buttonu5216-fr.png") no-repeat center center;
+	background: transparent url("../images/coloredlogo-buttonu5906-fr.png") no-repeat center center;
 	background-size: contain !important;
 }
 
@@ -171,7 +171,7 @@
 	position: fixed;
 	top: 24px;
 	left: 7px;
-	background: transparent url("../images/logo-buttonu5210-fr.png") no-repeat center center;
+	background: transparent url("../images/logo-buttonu5903-fr.png") no-repeat center center;
 	background-size: contain !important;
 }
 
@@ -1178,28 +1178,28 @@
 	height: 33px;
 	position: relative;
 	margin-right: -10000px;
-	background: #282828 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
+	background: #282828 url("../images/white-up-arrow-buttonu6535-fr.png") no-repeat center center;
 	background-size: contain !important;
 }
 
 #buttonu6535:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: #6CDCE7 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
+	background: #6CDCE7 url("../images/white-up-arrow-buttonu6535-fr.png") no-repeat center center;
 	background-size: contain !important;
 }
 
 #buttonu6535:active
 {
 	margin: 0px -10000px 0px 0px;
-	background: #6CDCE7 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
+	background: #6CDCE7 url("../images/white-up-arrow-buttonu6535-fr.png") no-repeat center center;
 	background-size: contain !important;
 }
 
 #buttonu6535.ButtonSelected
 {
 	margin: 0px -10000px 0px 0px;
-	background: #6CDCE7 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
+	background: #6CDCE7 url("../images/white-up-arrow-buttonu6535-fr.png") no-repeat center center;
 	background-size: contain !important;
 }
 
