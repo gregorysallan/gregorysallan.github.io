@@ -1,11 +1,11 @@
 <manifest alg="2" build="5" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="340284753"/>
-    <file name="contact.css" crc="3773435878" ref="contact"/>
+    <file name="contact.css" crc="4176114951" ref="contact"/>
     <file name="iefonts_contact.css" crc="3775818381" ref="contact"/>
-    <file name="our-team.css" crc="234333602" ref="our-team"/>
+    <file name="our-team.css" crc="3966972909" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="532348611" ref="our-team"/>
-    <file name="index.css" crc="3822810705" ref="index"/>
+    <file name="index.css" crc="242420777" ref="index"/>
     <file name="iefonts_index.css" crc="3871154808" ref="index"/>
   </folder>
   <folder name="assets">
@@ -26,23 +26,20 @@
     <file name="jquery.watch.js" crc="4199601726" ref="index:our-team:contact"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="117244697" ref="index:our-team"/>
+    <file name="a-master-favicon.ico" crc="117244697" ref="index"/>
     <file name="florin (5).jpg" crc="4079154627" ref="index"/>
-    <file name="coloredlogo-buttonu5216-fr.png" crc="494670869" ref="index:contact"/>
-    <file name="logo-buttonu5210-fr.png" crc="268470534" ref="index:contact"/>
+    <file name="coloredlogo-buttonu5216-fr.png" crc="494670869" ref="index:contact:our-team"/>
+    <file name="logo-buttonu5210-fr.png" crc="268470534" ref="index:contact:our-team"/>
     <file name="imag2470.jpg" crc="350295024" ref="index"/>
     <file name="ubc_neg-buttonu4874-fr.png" crc="4141318830" ref="index"/>
     <file name="nserc_b_neg.png" crc="3875998953" ref="index"/>
     <file name="vch_neg-buttonu4872-fr.png" crc="382444248" ref="index"/>
     <file name="ustop_neg-buttonu4878-fr.png" crc="21581516" ref="index"/>
-    <file name="white-up-arrow-buttonu4866-fr.png" crc="79972222" ref="index:contact"/>
+    <file name="white-up-arrow-buttonu4866-fr.png" crc="79972222" ref="index:contact:our-team"/>
     <file name="screw dimensions-u5823-fr.jpg" crc="3838375333" ref="our-team"/>
     <file name="team-c-u5404-fr.jpg" crc="70005616" ref="our-team"/>
-    <file name="coloredlogo-buttonu5906-fr.png" crc="494670869" ref="our-team"/>
-    <file name="logo-buttonu5903-fr.png" crc="268470534" ref="our-team"/>
-    <file name="white-up-arrow-buttonu6535-fr.png" crc="79972222" ref="our-team"/>
   </folder>
-  <file name="index.html" crc="4280982714" mt="1408332007583" redirect="true"/>
-  <file name="our-team.html" crc="3843399275" mt="1408389609682" redirect="true"/>
-  <file name="contact.html" crc="334513061" mt="1408389412512" redirect="true"/>
+  <file name="index.html" crc="278867387" mt="1408392475564" redirect="true"/>
+  <file name="our-team.html" crc="172492416" mt="1408392529983" redirect="true"/>
+  <file name="contact.html" crc="3873668205" mt="1408392539829" redirect="true"/>
 </manifest>
