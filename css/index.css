@@ -50,13 +50,12 @@
 {
 	z-index: 83;
 	width: 1159px;
-	height: 705px;
+	height: 761px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 56px;
 	background: #FFFFFF url("../images/florin%20(5).jpg") no-repeat center center;
 }
 
@@ -73,7 +72,6 @@
 	position: relative;
 	margin-bottom: -1px;
 	margin-right: -10000px;
-	margin-top: 57px;
 	-pie-background: rgba(0, 0, 0, 0.73);
 }
 
@@ -93,7 +91,7 @@
 	min-height: 236px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 260px;
+	margin-top: 317px;
 	left: 26px;
 }
 
@@ -121,7 +119,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 170px;
+	margin-top: 227px;
 	left: 533px;
 }
 
