@@ -5,8 +5,8 @@
     <file name="iefonts_contact.css" crc="3775818381" ref="contact"/>
     <file name="our-team.css" crc="3966972909" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="532348611" ref="our-team"/>
-    <file name="index.css" crc="242420777" ref="index"/>
-    <file name="iefonts_index.css" crc="3871154808" ref="index"/>
+    <file name="index.css" crc="4107076803" ref="index"/>
+    <file name="iefonts_index.css" crc="52652962" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="video-pattern-two.png" crc="3802565248" mt="1384623892000"/>
@@ -39,7 +39,7 @@
     <file name="screw dimensions-u5823-fr.jpg" crc="3838375333" ref="our-team"/>
     <file name="team-c-u5404-fr.jpg" crc="70005616" ref="our-team"/>
   </folder>
-  <file name="index.html" crc="278867387" mt="1408392475564" redirect="true"/>
-  <file name="our-team.html" crc="172492416" mt="1408392529983" redirect="true"/>
-  <file name="contact.html" crc="3873668205" mt="1408392539829" redirect="true"/>
+  <file name="index.html" crc="4127690884" mt="1408505391613" redirect="true"/>
+  <file name="our-team.html" crc="172492416" mt="1408504465984" redirect="true"/>
+  <file name="contact.html" crc="3873668205" mt="1408504465987" redirect="true"/>
 </manifest>
