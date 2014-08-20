@@ -5,7 +5,7 @@
     <file name="iefonts_contact.css" crc="4211356029" ref="contact"/>
     <file name="our-team.css" crc="152526493" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="3848285368" ref="our-team"/>
-    <file name="index.css" crc="198822506" ref="index"/>
+    <file name="index.css" crc="478515222" ref="index"/>
     <file name="iefonts_index.css" crc="437456992" ref="index"/>
   </folder>
   <folder name="assets">
@@ -39,7 +39,7 @@
     <file name="screw dimensions-u5823-fr.jpg" crc="3838375333" ref="our-team"/>
     <file name="team-c-u5404-fr.jpg" crc="70005616" ref="our-team"/>
   </folder>
-  <file name="index.html" crc="171762602" mt="1408509299419" redirect="true"/>
+  <file name="index.html" crc="4166435059" mt="1408509438455" redirect="true"/>
   <file name="our-team.html" crc="155846431" mt="1408506504032" redirect="true"/>
   <file name="contact.html" crc="4064132651" mt="1408506379131" redirect="true"/>
 </manifest>
