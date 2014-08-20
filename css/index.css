@@ -39,24 +39,10 @@
 	margin-right: -10000px;
 }
 
-#u5215
-{
-	z-index: 105;
-	width: 1160px;
-	height: 199px;
-	border-style: solid;
-	border-color: #F6F6F6;
-	background-color: #FFFFFF;
-	position: fixed;
-	top: 0px;
-	left: -100px;
-	border-width: 0px 0px 1px;
-}
-
 #pu4589
 {
 	width: 0.01px;
-	left: -315px;
+	left: -100px;
 	position: relative;
 }
 
@@ -70,7 +56,7 @@
 	border-color: #000000;
 	position: relative;
 	margin-right: -10000px;
-	left: 215px;
+	margin-top: 56px;
 	background: #FFFFFF url("../images/florin%20(5).jpg") no-repeat center center;
 }
 
@@ -87,8 +73,7 @@
 	position: relative;
 	margin-bottom: -1px;
 	margin-right: -10000px;
-	margin-top: 1px;
-	left: 215px;
+	margin-top: 57px;
 	-pie-background: rgba(0, 0, 0, 0.73);
 }
 
@@ -150,30 +135,44 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 505px;
-	left: 337px;
+	margin-top: 561px;
+	left: 122px;
 }
 
 #u6630
 {
 	z-index: 174;
-	width: 200px;
-	min-height: 386px;
+	width: 1160px;
+	min-height: 35px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 47px;
 }
 
-#pbuttonu5216
+#pu5215
 {
 	width: 0.01px;
-	padding-bottom: 152px;
-	top: -684px;
-	margin-bottom: -152px;
+	padding-bottom: 199px;
+	left: -100px;
+	top: -707px;
+	margin-bottom: -199px;
 	position: relative;
+}
+
+#u5215
+{
+	z-index: 105;
+	width: 1160px;
+	height: 199px;
+	border-style: solid;
+	border-color: #F6F6F6;
+	background-color: #FFFFFF;
+	position: fixed;
+	top: 56px;
+	left: -100px;
+	border-width: 0px 0px 1px;
 }
 
 #buttonu5216
@@ -188,7 +187,7 @@
 	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	position: fixed;
-	top: 128px;
+	top: 184px;
 	left: 0px;
 	background: transparent url("../images/coloredlogo-buttonu5216-fr.png") no-repeat center center;
 	background-size: contain !important;
@@ -206,7 +205,7 @@
 	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	position: fixed;
-	top: 23px;
+	top: 79px;
 	left: 7px;
 	background: transparent url("../images/logo-buttonu5210-fr.png") no-repeat center center;
 	background-size: contain !important;
@@ -225,7 +224,7 @@
 	z-index: 138;
 	width: 382px;
 	position: fixed;
-	top: 133px;
+	top: 189px;
 	left: 172px;
 }
 
@@ -412,7 +411,7 @@
 	z-index: 107;
 	width: 382px;
 	position: fixed;
-	top: 32px;
+	top: 88px;
 	left: 177px;
 }
 
@@ -699,7 +698,7 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 142px;
+	top: 198px;
 	left: 859px;
 }
 
@@ -713,7 +712,7 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 144px;
+	top: 200px;
 	left: 859px;
 }
 
@@ -727,7 +726,7 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 40px;
+	top: 96px;
 	left: 880px;
 }
 
@@ -741,7 +740,7 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 142px;
+	top: 198px;
 	left: 880px;
 }
 
@@ -755,7 +754,7 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 142px;
+	top: 198px;
 	left: 880px;
 }
 
@@ -769,7 +768,7 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 144px;
+	top: 200px;
 	left: 880px;
 }
 
@@ -783,7 +782,7 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 40px;
+	top: 96px;
 	left: 901px;
 }
 
@@ -797,7 +796,7 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 142px;
+	top: 198px;
 	left: 901px;
 }
 
@@ -811,7 +810,7 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 142px;
+	top: 198px;
 	left: 901px;
 }
 
@@ -825,7 +824,7 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 144px;
+	top: 200px;
 	left: 901px;
 }
 
@@ -839,7 +838,7 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 40px;
+	top: 96px;
 	left: 922px;
 }
 
@@ -853,7 +852,7 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 142px;
+	top: 198px;
 	left: 922px;
 }
 
@@ -867,7 +866,7 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 142px;
+	top: 198px;
 	left: 922px;
 }
 
@@ -881,8 +880,16 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 144px;
+	top: 200px;
 	left: 922px;
+}
+
+#pu4606-8
+{
+	width: 0.01px;
+	margin-left: 22px;
+	margin-top: 58px;
+	position: relative;
 }
 
 #u4606-8
@@ -892,9 +899,8 @@
 	min-height: 123px;
 	border-style: none;
 	background-color: transparent;
-	margin-left: 22px;
-	margin-top: 58px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u4606-8:hover
@@ -903,30 +909,12 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 123px;
-	margin: 58px 0px 0px 22px;
-}
-
-#u4606-8:active
-{
-	background-color: transparent;
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 123px;
-	margin: 58px 0px 0px 22px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u4606-2
 {
 	line-height: 36px;
-}
-
-#pbuttonu4607
-{
-	width: 0.01px;
-	margin-left: 22px;
-	top: -5px;
-	margin-bottom: -5px;
-	position: relative;
 }
 
 #buttonu4607
@@ -938,6 +926,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 89px;
 	padding: 53px 39px 32.25px 30px;
 	border-width: 1px 1px 0px 0px;
 }
@@ -975,6 +964,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 89px;
 	left: 302px;
 	padding: 53px 38px 32.25px 30px;
 	border-width: 1px 1px 0px 0px;
@@ -1013,6 +1003,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 89px;
 	left: 614px;
 	padding: 53px 39px 32.25px 29px;
 	border-width: 1px 0px 0px 1px;
@@ -1022,7 +1013,7 @@
 {
 	width: 234px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 89px -10000px 0px 0px;
 }
 
 #u4620
@@ -1058,7 +1049,7 @@
 {
 	width: 0.01px;
 	left: -100px;
-	margin-top: 10px;
+	margin-top: 9px;
 	position: relative;
 }
 
@@ -1160,7 +1151,7 @@
 	margin-right: -10000px;
 }
 
-#u4808-7:hover
+#u4606-8:active,#u4808-7:hover
 {
 	background-color: transparent;
 	padding-top: 0px;
