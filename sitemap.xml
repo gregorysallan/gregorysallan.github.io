@@ -43,12 +43,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ScrewCutter.com/images/coloredlogo-buttonu5216-fr.png</loc>
-    <lastmod>2014-08-20</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://ScrewCutter.com/images/logo-buttonu5210-fr.png</loc>
     <lastmod>2014-08-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -103,6 +97,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://ScrewCutter.com/images/coloredlogo-buttonu5906-fr.png</loc>
+    <lastmod>2014-08-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://ScrewCutter.com/index.html</loc>
     <lastmod>2014-08-20</lastmod>
     <changefreq>weekly</changefreq>
@@ -110,13 +110,13 @@
   </url>
   <url>
     <loc>http://ScrewCutter.com/our-team.html</loc>
-    <lastmod>2014-08-19</lastmod>
+    <lastmod>2014-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ScrewCutter.com/contact.html</loc>
-    <lastmod>2014-08-19</lastmod>
+    <lastmod>2014-08-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

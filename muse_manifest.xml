@@ -1,11 +1,11 @@
 <manifest alg="2" build="5" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="340284753"/>
-    <file name="contact.css" crc="3855255965" ref="contact"/>
+    <file name="contact.css" crc="47946832" ref="contact"/>
     <file name="iefonts_contact.css" crc="4211356029" ref="contact"/>
-    <file name="our-team.css" crc="152526493" ref="our-team"/>
+    <file name="our-team.css" crc="4229012481" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="3848285368" ref="our-team"/>
-    <file name="index.css" crc="478515222" ref="index"/>
+    <file name="index.css" crc="3950801389" ref="index"/>
     <file name="iefonts_index.css" crc="437456992" ref="index"/>
   </folder>
   <folder name="assets">
@@ -28,7 +28,6 @@
   <folder name="images">
     <file name="a-master-favicon.ico" crc="117244697" ref="index"/>
     <file name="florin (5).jpg" crc="4079154627" ref="index"/>
-    <file name="coloredlogo-buttonu5216-fr.png" crc="494670869" ref="contact:our-team"/>
     <file name="logo-buttonu5210-fr.png" crc="268470534" ref="index:contact:our-team"/>
     <file name="imag2470.jpg" crc="350295024" ref="index"/>
     <file name="ubc_neg-buttonu4874-fr.png" crc="4141318830" ref="index"/>
@@ -38,8 +37,9 @@
     <file name="white-up-arrow-buttonu4866-fr.png" crc="79972222" ref="index:contact:our-team"/>
     <file name="screw dimensions-u5823-fr.jpg" crc="3838375333" ref="our-team"/>
     <file name="team-c-u5404-fr.jpg" crc="70005616" ref="our-team"/>
+    <file name="coloredlogo-buttonu5906-fr.png" crc="494670869" ref="our-team:contact"/>
   </folder>
-  <file name="index.html" crc="4166435059" mt="1408509438455" redirect="true"/>
-  <file name="our-team.html" crc="155846431" mt="1408506504032" redirect="true"/>
-  <file name="contact.html" crc="4064132651" mt="1408506379131" redirect="true"/>
+  <file name="index.html" crc="4130516136" mt="1408545861567" redirect="true"/>
+  <file name="our-team.html" crc="288329763" mt="1408545870615" redirect="true"/>
+  <file name="contact.html" crc="204534919" mt="1408545885662" redirect="true"/>
 </manifest>

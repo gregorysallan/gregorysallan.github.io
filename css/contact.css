@@ -143,7 +143,7 @@
 	position: fixed;
 	top: 129px;
 	left: 0px;
-	background: transparent url("../images/coloredlogo-buttonu5216-fr.png") no-repeat center center;
+	background: transparent url("../images/coloredlogo-buttonu5906-fr.png") no-repeat center center;
 	background-size: contain !important;
 }
 
@@ -1096,20 +1096,6 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 748px;
-}
-
-#u6568
-{
-	z-index: 116;
-	width: 200px;
-	min-height: 100px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 99px;
-	left: 4px;
 }
 
 #page .verticalspacer
