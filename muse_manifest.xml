@@ -1,10 +1,10 @@
 <manifest alg="2" build="5" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="340284753"/>
-    <file name="contact.css" crc="4176114951" ref="contact"/>
-    <file name="iefonts_contact.css" crc="3775818381" ref="contact"/>
-    <file name="our-team.css" crc="3966972909" ref="our-team"/>
-    <file name="iefonts_our-team.css" crc="532348611" ref="our-team"/>
+    <file name="contact.css" crc="3855255965" ref="contact"/>
+    <file name="iefonts_contact.css" crc="4211356029" ref="contact"/>
+    <file name="our-team.css" crc="152526493" ref="our-team"/>
+    <file name="iefonts_our-team.css" crc="3848285368" ref="our-team"/>
     <file name="index.css" crc="4107076803" ref="index"/>
     <file name="iefonts_index.css" crc="52652962" ref="index"/>
   </folder>
@@ -39,7 +39,7 @@
     <file name="screw dimensions-u5823-fr.jpg" crc="3838375333" ref="our-team"/>
     <file name="team-c-u5404-fr.jpg" crc="70005616" ref="our-team"/>
   </folder>
-  <file name="index.html" crc="4127690884" mt="1408505391613" redirect="true"/>
-  <file name="our-team.html" crc="172492416" mt="1408504465984" redirect="true"/>
-  <file name="contact.html" crc="3873668205" mt="1408504465987" redirect="true"/>
+  <file name="index.html" crc="4127690884" mt="1408506299377" redirect="true"/>
+  <file name="our-team.html" crc="155846431" mt="1408506337370" redirect="true"/>
+  <file name="contact.html" crc="4064132651" mt="1408506379131" redirect="true"/>
 </manifest>

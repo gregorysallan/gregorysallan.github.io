@@ -38,7 +38,12 @@
 	font-family: source-sans-pro-n4, sans-serif;
 }
 
-#u6289.MuseMenuActive #u6290-4 p,#u6335:hover #u6338-4 p
+#u6289.MuseMenuActive #u6290-4 p,#u6624:hover #u6626-4 p
+{
+	font-family: source-sans-pro-n4, sans-serif;
+}
+
+#u6624.MuseMenuActive #u6626-4 p,#u6335:hover #u6338-4 p
 {
 	font-family: source-sans-pro-n4, sans-serif;
 }
@@ -58,7 +63,12 @@
 	font-family: source-sans-pro-n4, sans-serif;
 }
 
-#u6321.MuseMenuActive #u6324-4 p
+#u6321.MuseMenuActive #u6324-4 p,#u6619:hover #u6622-4 p
+{
+	font-family: source-sans-pro-n4, sans-serif;
+}
+
+#u6619.MuseMenuActive #u6622-4 p
 {
 	font-family: source-sans-pro-n4, sans-serif;
 }
