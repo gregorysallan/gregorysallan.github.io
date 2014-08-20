@@ -69,7 +69,7 @@
 	border-color: #000000;
 	background-color: #444444;
 	background-color: rgba(0, 0, 0, 0.73);
-	padding-bottom: 152px;
+	padding-bottom: 168px;
 	position: relative;
 	margin-bottom: -1px;
 	margin-right: -10000px;
@@ -88,12 +88,12 @@
 
 #u4602-5
 {
-	z-index: 91;
+	z-index: 87;
 	width: 490px;
 	min-height: 236px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 276px;
+	margin-top: 260px;
 	left: 26px;
 }
 
@@ -121,13 +121,13 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 186px;
+	margin-top: 170px;
 	left: 533px;
 }
 
 #u6563
 {
-	z-index: 173;
+	z-index: 129;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -141,7 +141,7 @@
 
 #u6630
 {
-	z-index: 174;
+	z-index: 130;
 	width: 1160px;
 	min-height: 35px;
 	border-style: none;
@@ -151,51 +151,19 @@
 	margin-right: -10000px;
 }
 
-#pu5215
+#pbuttonu5210
 {
 	width: 0.01px;
-	padding-bottom: 199px;
-	left: -100px;
-	top: -707px;
-	margin-bottom: -199px;
+	padding-bottom: 47px;
+	margin-left: 7px;
+	top: -692px;
+	margin-bottom: -47px;
 	position: relative;
-}
-
-#u5215
-{
-	z-index: 105;
-	width: 1160px;
-	height: 199px;
-	border-style: solid;
-	border-color: #F6F6F6;
-	background-color: #FFFFFF;
-	position: fixed;
-	top: 56px;
-	left: -100px;
-	border-width: 0px 0px 1px;
-}
-
-#buttonu5216
-{
-	z-index: 106;
-	width: 190px;
-	height: 47px;
-	border-style: none;
-	border-color: transparent;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
-	border-radius: 10px;
-	position: fixed;
-	top: 184px;
-	left: 0px;
-	background: transparent url("../images/coloredlogo-buttonu5216-fr.png") no-repeat center center;
-	background-size: contain !important;
 }
 
 #buttonu5210
 {
-	z-index: 104;
+	z-index: 96;
 	width: 170px;
 	height: 47px;
 	border-style: none;
@@ -205,13 +173,13 @@
 	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	position: fixed;
-	top: 79px;
+	top: 71px;
 	left: 7px;
 	background: transparent url("../images/logo-buttonu5210-fr.png") no-repeat center center;
 	background-size: contain !important;
 }
 
-#buttonu5216.ButtonSelected,#buttonu5210.ButtonSelected
+#buttonu5210.ButtonSelected
 {
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -219,203 +187,16 @@
 	background-size: contain !important;
 }
 
-#menuu5284
-{
-	z-index: 138;
-	width: 382px;
-	position: fixed;
-	top: 189px;
-	left: 172px;
-}
-
-#u5346-4
-{
-	width: 44px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	top: 8px;
-	left: 17px;
-}
-
-#u5343:hover #u5346-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u5343:hover #u5346-4 p
-{
-	color: #46CAD7;
-	visibility: inherit;
-	text-align: center;
-	font-size: 16px;
-	line-height: 1.2;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	padding: 0px;
-}
-
-#u5303-4
-{
-	width: 49px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	top: 8px;
-	left: 17px;
-}
-
-#u5343.MuseMenuActive #u5346-4,#u5300:hover #u5303-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u5343.MuseMenuActive #u5346-4 p,#u5300:hover #u5303-4 p
-{
-	color: #46CAD7;
-	visibility: inherit;
-	text-align: center;
-	font-size: 16px;
-	line-height: 1.2;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	padding: 0px;
-}
-
-#u5287-4
-{
-	width: 39px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	top: 8px;
-	left: 17px;
-}
-
-#u5300.MuseMenuActive #u5303-4,#u5286:hover #u5287-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u5300.MuseMenuActive #u5303-4 p,#u5286:hover #u5287-4 p
-{
-	color: #46CAD7;
-	visibility: inherit;
-	text-align: center;
-	font-size: 16px;
-	line-height: 1.2;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	padding: 0px;
-}
-
-#u5298-4
-{
-	width: 65px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	top: 8px;
-	left: 17px;
-}
-
-#u5286.MuseMenuActive #u5287-4,#u5295:hover #u5298-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u5286.MuseMenuActive #u5287-4 p,#u5295:hover #u5298-4 p
-{
-	color: #46CAD7;
-	visibility: inherit;
-	text-align: center;
-	font-size: 16px;
-	line-height: 1.2;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	padding: 0px;
-}
-
-#u6585-4
-{
-	width: 39px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u5295.MuseMenuActive #u5298-4,#u6582:hover #u6585-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u5295.MuseMenuActive #u5298-4 p,#u6582:hover #u6585-4 p
-{
-	color: #46CAD7;
-	visibility: inherit;
-	text-align: center;
-	font-size: 16px;
-	line-height: 1.2;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	padding: 0px;
-}
-
-.MenuItem /* unifiedNavBar */
-{
-	cursor: pointer;
-}
-
 #menuu5221
 {
-	z-index: 107;
+	z-index: 97;
 	width: 382px;
 	position: fixed;
-	top: 88px;
+	top: 80px;
 	left: 177px;
 }
 
-#u5340,#u5277
+#u5277
 {
 	width: 79px;
 	min-height: 34px;
@@ -423,7 +204,7 @@
 	margin-right: -10000px;
 }
 
-#u5343,#u5280
+#u5280
 {
 	width: 79px;
 	padding-bottom: 17px;
@@ -444,7 +225,7 @@
 	left: 17px;
 }
 
-#u6582.MuseMenuActive #u6585-4,#u5280:hover #u5283-4
+#u5280:hover #u5283-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -452,7 +233,7 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u6582.MuseMenuActive #u6585-4 p,#u5280:hover #u5283-4 p
+#u5280:hover #u5283-4 p
 {
 	color: #46CAD7;
 	visibility: inherit;
@@ -465,7 +246,7 @@
 	padding: 0px;
 }
 
-#u5299,#u5236
+#u5236
 {
 	width: 84px;
 	min-height: 34px;
@@ -474,7 +255,7 @@
 	left: 81px;
 }
 
-#u5300,#u5237
+#u5237
 {
 	width: 84px;
 	padding-bottom: 17px;
@@ -516,7 +297,7 @@
 	padding: 0px;
 }
 
-#u5285,#u5270
+#u5270
 {
 	width: 73px;
 	min-height: 34px;
@@ -525,7 +306,7 @@
 	left: 167px;
 }
 
-#u5286,#u5271
+#u5271
 {
 	width: 73px;
 	padding-bottom: 17px;
@@ -567,7 +348,7 @@
 	padding: 0px;
 }
 
-#u5292,#u5243
+#u5243
 {
 	width: 99px;
 	min-height: 34px;
@@ -576,7 +357,7 @@
 	left: 242px;
 }
 
-#u5295,#u5246
+#u5246
 {
 	width: 99px;
 	padding-bottom: 17px;
@@ -618,7 +399,7 @@
 	padding: 0px;
 }
 
-#u6581,#u6588
+#u6588
 {
 	width: 39px;
 	min-height: 34px;
@@ -628,7 +409,7 @@
 	left: 343px;
 }
 
-#u6582,#u6591
+#u6591
 {
 	width: 39px;
 	position: relative;
@@ -688,37 +469,14 @@
 	padding: 0px;
 }
 
-#u5169
+.MenuItem /* unifiedNavBar */
 {
-	z-index: 96;
-	width: 16px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	position: fixed;
-	top: 198px;
-	left: 859px;
-}
-
-#u4572
-{
-	z-index: 87;
-	width: 16px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	position: fixed;
-	top: 200px;
-	left: 859px;
+	cursor: pointer;
 }
 
 #u5202
 {
-	z-index: 101;
+	z-index: 93;
 	width: 16px;
 	min-height: 17px;
 	border-style: none;
@@ -726,55 +484,13 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 96px;
-	left: 880px;
-}
-
-#u5171
-{
-	z-index: 97;
-	width: 16px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	position: fixed;
-	top: 198px;
-	left: 880px;
-}
-
-#u5347
-{
-	z-index: 169;
-	width: 16px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	position: fixed;
-	top: 198px;
-	left: 880px;
-}
-
-#u4574
-{
-	z-index: 88;
-	width: 16px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	position: fixed;
-	top: 200px;
+	top: 88px;
 	left: 880px;
 }
 
 #u5204
 {
-	z-index: 102;
+	z-index: 94;
 	width: 16px;
 	min-height: 17px;
 	border-style: none;
@@ -782,55 +498,13 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 96px;
-	left: 901px;
-}
-
-#u5173
-{
-	z-index: 98;
-	width: 16px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	position: fixed;
-	top: 198px;
-	left: 901px;
-}
-
-#u5349
-{
-	z-index: 170;
-	width: 16px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	position: fixed;
-	top: 198px;
-	left: 901px;
-}
-
-#u4576
-{
-	z-index: 89;
-	width: 16px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	position: fixed;
-	top: 200px;
+	top: 88px;
 	left: 901px;
 }
 
 #u5206
 {
-	z-index: 103;
+	z-index: 95;
 	width: 16px;
 	min-height: 17px;
 	border-style: none;
@@ -838,49 +512,7 @@
 	background-color: transparent;
 	text-align: center;
 	position: fixed;
-	top: 96px;
-	left: 922px;
-}
-
-#u5175
-{
-	z-index: 99;
-	width: 16px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	position: fixed;
-	top: 198px;
-	left: 922px;
-}
-
-#u5351
-{
-	z-index: 171;
-	width: 16px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	position: fixed;
-	top: 198px;
-	left: 922px;
-}
-
-#u4578
-{
-	z-index: 90;
-	width: 16px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	position: fixed;
-	top: 200px;
+	top: 88px;
 	left: 922px;
 }
 

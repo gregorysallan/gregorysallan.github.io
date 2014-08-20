@@ -18,32 +18,7 @@
 	font-family: open-sans-n4, sans-serif;
 }
 
-#u5343:hover #u5346-4 p
-{
-	font-family: source-sans-pro-n4, sans-serif;
-}
-
-#u5343.MuseMenuActive #u5346-4 p,#u5300:hover #u5303-4 p
-{
-	font-family: source-sans-pro-n4, sans-serif;
-}
-
-#u5300.MuseMenuActive #u5303-4 p,#u5286:hover #u5287-4 p
-{
-	font-family: source-sans-pro-n4, sans-serif;
-}
-
-#u5286.MuseMenuActive #u5287-4 p,#u5295:hover #u5298-4 p
-{
-	font-family: source-sans-pro-n4, sans-serif;
-}
-
-#u5295.MuseMenuActive #u5298-4 p,#u6582:hover #u6585-4 p
-{
-	font-family: source-sans-pro-n4, sans-serif;
-}
-
-#u6582.MuseMenuActive #u6585-4 p,#u5280:hover #u5283-4 p
+#u5280:hover #u5283-4 p
 {
 	font-family: source-sans-pro-n4, sans-serif;
 }
