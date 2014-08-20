@@ -39,10 +39,24 @@
 	margin-right: -10000px;
 }
 
+#u5215
+{
+	z-index: 105;
+	width: 1160px;
+	height: 199px;
+	border-style: solid;
+	border-color: #F6F6F6;
+	background-color: #FFFFFF;
+	position: fixed;
+	top: 0px;
+	left: -100px;
+	border-width: 0px 0px 1px;
+}
+
 #pu4589
 {
 	width: 0.01px;
-	left: -100px;
+	left: -315px;
 	position: relative;
 }
 
@@ -56,6 +70,7 @@
 	border-color: #000000;
 	position: relative;
 	margin-right: -10000px;
+	left: 215px;
 	background: #FFFFFF url("../images/florin%20(5).jpg") no-repeat center center;
 }
 
@@ -73,6 +88,7 @@
 	margin-bottom: -1px;
 	margin-right: -10000px;
 	margin-top: 1px;
+	left: 215px;
 	-pie-background: rgba(0, 0, 0, 0.73);
 }
 
@@ -135,31 +151,29 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 505px;
-	left: 122px;
+	left: 337px;
 }
 
-#pu5215
+#u6630
+{
+	z-index: 174;
+	width: 200px;
+	min-height: 386px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 47px;
+}
+
+#pbuttonu5216
 {
 	width: 0.01px;
-	padding-bottom: 199px;
-	left: -100px;
-	top: -707px;
-	margin-bottom: -199px;
+	padding-bottom: 152px;
+	top: -684px;
+	margin-bottom: -152px;
 	position: relative;
-}
-
-#u5215
-{
-	z-index: 105;
-	width: 1160px;
-	height: 199px;
-	border-style: solid;
-	border-color: #F6F6F6;
-	background-color: #FFFFFF;
-	position: fixed;
-	top: 0px;
-	left: -100px;
-	border-width: 0px 0px 1px;
 }
 
 #buttonu5216
