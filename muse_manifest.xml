@@ -5,7 +5,7 @@
     <file name="iefonts_contact.css" crc="4211356029" ref="contact"/>
     <file name="our-team.css" crc="4229012481" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="3848285368" ref="our-team"/>
-    <file name="index.css" crc="3950801389" ref="index"/>
+    <file name="index.css" crc="261312440" ref="index"/>
     <file name="iefonts_index.css" crc="437456992" ref="index"/>
   </folder>
   <folder name="assets">
@@ -39,7 +39,7 @@
     <file name="team-c-u5404-fr.jpg" crc="70005616" ref="our-team"/>
     <file name="coloredlogo-buttonu5906-fr.png" crc="494670869" ref="our-team:contact"/>
   </folder>
-  <file name="index.html" crc="4130516136" mt="1408545861567" redirect="true"/>
+  <file name="index.html" crc="111654682" mt="1408591614612" redirect="true"/>
   <file name="our-team.html" crc="288329763" mt="1408545870615" redirect="true"/>
   <file name="contact.html" crc="204534919" mt="1408545885662" redirect="true"/>
 </manifest>
