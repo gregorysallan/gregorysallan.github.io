@@ -1,9 +1,9 @@
 <manifest alg="2" build="5" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="340284753"/>
-    <file name="contact.css" crc="461425330" ref="contact"/>
+    <file name="contact.css" crc="4269775107" ref="contact"/>
     <file name="iefonts_contact.css" crc="4211356029" ref="contact"/>
-    <file name="our-team.css" crc="413253366" ref="our-team"/>
+    <file name="our-team.css" crc="4250405689" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="3848285368" ref="our-team"/>
     <file name="index.css" crc="453961106" ref="index"/>
     <file name="iefonts_index.css" crc="437456992" ref="index"/>
@@ -39,7 +39,7 @@
     <file name="team-c-u5404-fr.jpg" crc="70005616" ref="our-team"/>
     <file name="coloredlogo-buttonu5906-fr.png" crc="494670869" ref="our-team:contact"/>
   </folder>
-  <file name="index.html" crc="4198398068" mt="1408688566113" redirect="true"/>
-  <file name="our-team.html" crc="220939574" mt="1408688542361" redirect="true"/>
-  <file name="contact.html" crc="384815744" mt="1408688519618" redirect="true"/>
+  <file name="index.html" crc="4182240074" mt="1408689024518" redirect="true"/>
+  <file name="our-team.html" crc="4082292538" mt="1408689032144" redirect="true"/>
+  <file name="contact.html" crc="487951424" mt="1408689041022" redirect="true"/>
 </manifest>
