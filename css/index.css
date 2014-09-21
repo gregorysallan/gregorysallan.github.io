@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E2;
-	background-color: #2B7E81;
+	color: #0000EE;
+	background-color: #057227;
 }
 
 .html
@@ -115,9 +115,7 @@
 #u6687
 {
 	z-index: 81;
-	height: 743px;
-	border-width: 1px;
-	border-style: solid;
+	height: 771px;
 	border-color: #000000;
 	background: #FFFFFF url("../images/betterhero.jpg") no-repeat center center;
 	background-size: cover;
@@ -126,15 +124,14 @@
 #u6687-bw
 {
 	z-index: 81;
-	margin-bottom: -1px;
 	margin-top: 1px;
-	height: 745px;
+	height: 771px;
 }
 
 #u6694
 {
 	z-index: 83;
-	height: 617px;
+	height: 770px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -147,7 +144,7 @@
 #u6694-bw
 {
 	z-index: 83;
-	height: 619px;
+	height: 772px;
 }
 
 #u4603
@@ -223,7 +220,7 @@
 	width: 0.01px;
 	padding-bottom: 34px;
 	margin-left: 177px;
-	margin-top: -663px;
+	margin-top: -690px;
 }
 
 #menuu5221
@@ -577,8 +574,8 @@
 #pu4606-6
 {
 	width: 0.01px;
-	margin-left: 22px;
-	margin-top: 78px;
+	margin-left: 21px;
+	margin-top: 51px;
 }
 
 #u4606-6
@@ -616,6 +613,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 89px;
+	left: 1px;
 	padding: 53px 39px 32.249999999999886px 30px;
 	border-width: 1px 1px 0px 0px;
 }
@@ -655,7 +653,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 89px;
-	left: 302px;
+	left: 303px;
 	padding: 53px 38px 32.249999999999886px 30px;
 	border-width: 1px 1px 0px 0px;
 }
@@ -695,7 +693,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 89px;
-	left: 614px;
+	left: 615px;
 	padding: 53px 39px 32.249999999999886px 29px;
 	border-width: 1px 0px 0px 1px;
 }
