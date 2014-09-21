@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000012;
-	background-color: #F993CC;
+	color: #000001;
+	background-color: #50EB14;
 }
 
 .html
@@ -52,13 +52,14 @@
 {
 	width: 0.01px;
 	margin-left: -322px;
+	margin-top: -1px;
 }
 
 #pu6646
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 44px;
+	margin-top: 45px;
 }
 
 #u6646
@@ -111,26 +112,41 @@
 	position: relative;
 }
 
-#u4598
+#u6687
 {
-	z-index: 82;
-	height: 761px;
+	z-index: 81;
+	height: 671px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	background-color: #90C8D5;
-	background-color: rgba(104, 180, 198, 0.73);
-	opacity: 0.49;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=49)";
-	filter: alpha(opacity=49);
-	-pie-background: rgba(104, 180, 198, 0.73);
+	background: #FFFFFF url("../images/betterhero.jpg") no-repeat left top;
 }
 
-#u4598-bw
+#u6687-bw
 {
-	z-index: 82;
+	z-index: 81;
 	margin-bottom: -1px;
-	height: 763px;
+	margin-top: 1px;
+	height: 673px;
+}
+
+#u6694
+{
+	z-index: 83;
+	height: 665px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #58AFC2;
+	opacity: 0.85;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=85)";
+	filter: alpha(opacity=85);
+}
+
+#u6694-bw
+{
+	z-index: 83;
+	height: 667px;
 }
 
 #u4603
@@ -143,7 +159,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 186px;
+	margin-top: 187px;
 	left: 756px;
 }
 
@@ -155,7 +171,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 276px;
+	margin-top: 277px;
 	left: 237px;
 }
 
@@ -186,6 +202,7 @@
 {
 	z-index: 126;
 	min-height: 35px;
+	margin-top: 1px;
 	height: 88px;
 }
 
@@ -196,34 +213,16 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 76px;
+	margin-top: 77px;
 	left: 331px;
 }
 
-#pu4589
+#pmenuu5221
 {
 	width: 0.01px;
-	padding-bottom: 762px;
-	margin-left: -100px;
-	margin-top: -762px;
-}
-
-#u4589
-{
-	z-index: 81;
-	height: 761px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	position: fixed;
-	bottom: 1354px;
-	background: #FFFFFF url("../images/betterhero.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u4589-bw
-{
-	z-index: 81;
+	padding-bottom: 34px;
+	margin-left: 177px;
+	margin-top: -591px;
 }
 
 #menuu5221
@@ -578,7 +577,7 @@
 {
 	width: 0.01px;
 	margin-left: 22px;
-	margin-top: 59px;
+	margin-top: 150px;
 }
 
 #u4606-6
