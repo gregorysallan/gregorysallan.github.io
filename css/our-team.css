@@ -1,3 +1,9 @@
+.version.our_team /* version checker */
+{
+	color: #0000F4;
+	background-color: #1E9917;
+}
+
 .html
 {
 	background-color: #FFFFFF;
@@ -25,7 +31,6 @@
 {
 	width: 0.01px;
 	margin-left: 22px;
-	position: relative;
 }
 
 #top
@@ -46,16 +51,13 @@
 #ppu6648
 {
 	width: 0.01px;
-	left: -324px;
-	top: -1px;
-	margin-bottom: -1px;
-	position: relative;
+	margin-left: -324px;
+	margin-top: -1px;
 }
 
 #pu6648
 {
 	width: 0.01px;
-	position: relative;
 	margin-right: -10000px;
 	margin-top: 126px;
 }
@@ -87,31 +89,29 @@
 #u5823
 {
 	z-index: 55;
-	width: 1159px;
 	height: 330px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
-	position: relative;
-	margin-right: -10000px;
-	left: 224px;
-	background: #FFFFFF url("../images/screw%20dimensions-u5823-fr.jpg") no-repeat center center;
-	background-size: cover !important;
+	background: #FFFFFF url("../images/screw%20dimensions.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u5823-bw
+{
+	z-index: 55;
+	height: 332px;
 }
 
 #u5824
 {
 	z-index: 56;
-	width: 1159px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: #444444;
 	background-color: rgba(0, 0, 0, 0.73);
 	padding-bottom: 10px;
-	position: relative;
-	margin-right: -10000px;
-	left: 224px;
 	-pie-background: rgba(0, 0, 0, 0.73);
 }
 
@@ -129,6 +129,7 @@
 	z-index: 62;
 	width: 916px;
 	min-height: 124px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 164px;
@@ -148,28 +149,37 @@
 	color: #FFFFFF;
 }
 
+#u5824-bw
+{
+	z-index: 56;
+	height: 322px;
+}
+
 #pu5905
 {
 	width: 0.01px;
 	padding-bottom: 199px;
-	left: -100px;
-	top: -350px;
-	margin-bottom: -199px;
-	position: relative;
+	margin-left: -100px;
+	margin-top: -350px;
 }
 
 #u5905
 {
 	z-index: 78;
-	width: 1160px;
 	height: 199px;
 	border-style: solid;
 	border-color: #F6F6F6;
 	background-color: #FFFFFF;
-	position: fixed;
-	top: 1px;
-	left: -100px;
 	border-width: 0px 0px 1px;
+}
+
+#u5905-bw
+{
+	z-index: 78;
+	position: fixed;
+	left: 0px;
+	right: 0px;
+	top: 1px;
 }
 
 #buttonu5906
@@ -187,7 +197,7 @@
 	top: 129px;
 	left: 0px;
 	background: transparent url("../images/coloredlogo-buttonu5906-fr.png") no-repeat center center;
-	background-size: contain !important;
+	background-size: contain;
 }
 
 #buttonu5903
@@ -204,8 +214,8 @@
 	position: fixed;
 	top: 24px;
 	left: 7px;
-	background: transparent url("../images/logo-buttonu5210-fr.png") no-repeat center center;
-	background-size: contain !important;
+	background: transparent url("../images/logo-buttonu5903-fr.png") no-repeat center center;
+	background-size: contain;
 }
 
 #buttonu5906.ButtonSelected,#buttonu5903.ButtonSelected
@@ -213,13 +223,16 @@
 	background-repeat: no-repeat;
 	background-position: center center;
 	margin: 0px;
-	background-size: contain !important;
+	background-size: contain;
 }
 
 #menuu5908
 {
 	z-index: 80;
 	width: 390px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: fixed;
 	top: 33px;
 	left: 177px;
@@ -251,13 +264,21 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
 	padding: 0px;
+}
+
+#u5937
+{
+	width: 84px;
+	background-color: transparent;
+	padding-bottom: 17px;
+	position: relative;
 }
 
 #u5939-4
@@ -286,13 +307,21 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
 	padding: 0px;
+}
+
+#u5919
+{
+	width: 81px;
+	background-color: transparent;
+	padding-bottom: 15px;
+	position: relative;
 }
 
 #u5920-4
@@ -321,9 +350,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -356,13 +385,21 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
 	padding: 0px;
+}
+
+#u6612
+{
+	width: 39px;
+	background-color: transparent;
+	padding-bottom: 17px;
+	position: relative;
 }
 
 #u6613-4
@@ -375,6 +412,7 @@
 	line-height: 17px;
 	position: relative;
 	margin-right: -10000px;
+	top: 8px;
 }
 
 #u5944.MuseMenuActive #u5945-4,#u6612:hover #u6613-4
@@ -389,9 +427,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -407,6 +445,9 @@
 {
 	z-index: 115;
 	width: 390px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
 	position: fixed;
 	top: 133px;
 	left: 177px;
@@ -416,6 +457,7 @@
 {
 	width: 79px;
 	min-height: 34px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -423,6 +465,7 @@
 #u5912,#u6113
 {
 	width: 79px;
+	background-color: transparent;
 	padding-bottom: 17px;
 	position: relative;
 }
@@ -453,9 +496,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -466,14 +509,16 @@
 {
 	width: 84px;
 	min-height: 34px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	left: 81px;
 }
 
-#u5937,#u6086
+#u6086
 {
 	width: 84px;
+	background-color: transparent;
 	padding-bottom: 17px;
 	position: relative;
 }
@@ -504,9 +549,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -517,14 +562,16 @@
 {
 	width: 81px;
 	min-height: 34px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	left: 167px;
 }
 
-#u5919,#u6125
+#u6125
 {
 	width: 81px;
+	background-color: transparent;
 	padding-bottom: 15px;
 	position: relative;
 }
@@ -563,9 +610,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -576,6 +623,7 @@
 {
 	width: 99px;
 	min-height: 34px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	left: 250px;
@@ -584,6 +632,7 @@
 #u5944,#u6106
 {
 	width: 99px;
+	background-color: transparent;
 	padding-bottom: 17px;
 	position: relative;
 }
@@ -614,9 +663,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -627,16 +676,23 @@
 {
 	width: 39px;
 	min-height: 34px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	top: 8px;
 	left: 351px;
 }
 
-#u6612,#u6603
+#u6603
 {
 	width: 39px;
+	background-color: transparent;
+	padding-bottom: 17px;
 	position: relative;
+}
+
+#u5937.MuseMenuActive,#u5919.MuseMenuActive,#u6612.MuseMenuActive,#u6086.MuseMenuActive,#u6125.MuseMenuActive,#u6603.MuseMenuActive
+{
+	margin: 0px;
 }
 
 #u6606-4
@@ -649,6 +705,7 @@
 	line-height: 17px;
 	position: relative;
 	margin-right: -10000px;
+	top: 8px;
 }
 
 #u6106.MuseMenuActive #u6108-4,#u6603:hover #u6606-4
@@ -671,9 +728,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -684,9 +741,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -696,8 +753,8 @@
 #u5886
 {
 	z-index: 69;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -710,8 +767,8 @@
 #u5877
 {
 	z-index: 58;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -724,8 +781,8 @@
 #u5895
 {
 	z-index: 74;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -738,8 +795,8 @@
 #u5888
 {
 	z-index: 70;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -752,8 +809,8 @@
 #u6006
 {
 	z-index: 111;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -766,8 +823,8 @@
 #u5879
 {
 	z-index: 59;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -780,8 +837,8 @@
 #u5897
 {
 	z-index: 75;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -794,8 +851,8 @@
 #u5890
 {
 	z-index: 71;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -808,8 +865,8 @@
 #u6008
 {
 	z-index: 112;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -822,8 +879,8 @@
 #u5881
 {
 	z-index: 60;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -836,8 +893,8 @@
 #u5899
 {
 	z-index: 76;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -850,8 +907,8 @@
 #u5892
 {
 	z-index: 72;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -864,8 +921,8 @@
 #u6010
 {
 	z-index: 113;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -878,8 +935,8 @@
 #u5883
 {
 	z-index: 61;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -892,22 +949,26 @@
 #pbuttonu5395
 {
 	width: 0.01px;
-	left: -410px;
+	margin-left: -410px;
 	margin-top: 15px;
-	position: relative;
 }
 
 #buttonu5395
 {
 	z-index: 2;
-	width: 646px;
+	width: 732px;
+	border-color: #F6F6F6;
+	background-color: transparent;
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
-	left: 86px;
+}
+
+#buttonu5395.ButtonSelected
+{
+	margin: 0px -10000px 0px 0px;
 }
 
 #u6638
@@ -920,15 +981,16 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 8px;
+	left: 86px;
 }
 
 #pu5404
 {
 	width: 0.01px;
-	position: relative;
 	margin-right: -10000px;
-	margin-top: 28px;
-	left: 346px;
+	margin-top: 36px;
+	margin-left: 432px;
 }
 
 #u5404
@@ -942,14 +1004,17 @@
 	-khtml-border-radius: 3px;
 	border-radius: 3px;
 	position: relative;
-	background: #F6F6F6 url("../images/team-c-u5404-fr.jpg") no-repeat left top;
-	background-size: cover !important;
+	background: #F6F6F6 url("../images/team-c-ieu5404-fr.png") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/team-c.jpg") no-repeat left top;
+	background-color: #F6F6F6;
+	background-size: cover;
 }
 
 #u5398-6
 {
 	z-index: 4;
 	width: 300px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -957,7 +1022,7 @@
 #u5402
 {
 	z-index: 10;
-	width: 16px;
+	width: 20px;
 	min-height: 22px;
 	border-style: none;
 	border-color: transparent;
@@ -974,7 +1039,7 @@
 #u5396
 {
 	z-index: 11;
-	width: 17px;
+	width: 20px;
 	min-height: 22px;
 	border-style: none;
 	border-color: transparent;
@@ -991,7 +1056,7 @@
 #u5399
 {
 	z-index: 12;
-	width: 16px;
+	width: 20px;
 	min-height: 22px;
 	border-style: none;
 	border-color: transparent;
@@ -1009,6 +1074,8 @@
 {
 	z-index: 36;
 	width: 300px;
+	border-color: #F6F6F6;
+	background-color: transparent;
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
@@ -1029,14 +1096,17 @@
 	-khtml-border-radius: 3px;
 	border-radius: 3px;
 	position: relative;
-	background: #F6F6F6 url("../images/team-c-u5404-fr.jpg") no-repeat left top;
-	background-size: cover !important;
+	background: #F6F6F6 url("../images/team-c-ieu5404-fr.png") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/team-c.jpg") no-repeat left top;
+	background-color: #F6F6F6;
+	background-size: cover;
 }
 
 #u5412-6
 {
 	z-index: 38;
 	width: 300px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -1044,7 +1114,7 @@
 #u5406
 {
 	z-index: 44;
-	width: 16px;
+	width: 20px;
 	min-height: 22px;
 	border-style: none;
 	border-color: transparent;
@@ -1061,7 +1131,7 @@
 #u5408
 {
 	z-index: 45;
-	width: 17px;
+	width: 20px;
 	min-height: 22px;
 	border-style: none;
 	border-color: transparent;
@@ -1078,7 +1148,7 @@
 #u5413
 {
 	z-index: 46;
-	width: 16px;
+	width: 20px;
 	min-height: 22px;
 	border-style: none;
 	border-color: transparent;
@@ -1096,6 +1166,8 @@
 {
 	z-index: 25;
 	width: 300px;
+	border-color: #F6F6F6;
+	background-color: transparent;
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
@@ -1103,6 +1175,11 @@
 	margin-right: -10000px;
 	margin-top: 35px;
 	left: 1048px;
+}
+
+#buttonu5405.ButtonSelected,#buttonu5425.ButtonSelected
+{
+	margin: 35px -10000px 0px 0px;
 }
 
 #u5428
@@ -1116,14 +1193,17 @@
 	-khtml-border-radius: 3px;
 	border-radius: 3px;
 	position: relative;
-	background: #F6F6F6 url("../images/team-c-u5404-fr.jpg") no-repeat left top;
-	background-size: cover !important;
+	background: #F6F6F6 url("../images/team-c-ieu5404-fr.png") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/team-c.jpg") no-repeat left top;
+	background-color: #F6F6F6;
+	background-size: cover;
 }
 
 #u5434-6
 {
 	z-index: 27;
 	width: 300px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -1131,7 +1211,7 @@
 #u5431
 {
 	z-index: 33;
-	width: 16px;
+	width: 20px;
 	min-height: 22px;
 	border-style: none;
 	border-color: transparent;
@@ -1148,7 +1228,7 @@
 #u5426
 {
 	z-index: 34;
-	width: 17px;
+	width: 20px;
 	min-height: 22px;
 	border-style: none;
 	border-color: transparent;
@@ -1165,7 +1245,7 @@
 #u5429
 {
 	z-index: 35;
-	width: 16px;
+	width: 20px;
 	min-height: 22px;
 	border-style: none;
 	border-color: transparent;
@@ -1183,11 +1263,18 @@
 {
 	z-index: 14;
 	width: 300px;
+	border-color: #F6F6F6;
+	background-color: transparent;
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
 	margin-left: 43px;
 	position: relative;
+}
+
+#buttonu5415.ButtonSelected
+{
+	margin: 0px 0px 0px 43px;
 }
 
 #u5420
@@ -1201,8 +1288,10 @@
 	-khtml-border-radius: 3px;
 	border-radius: 3px;
 	position: relative;
-	background: #F6F6F6 url("../images/team-c-u5404-fr.jpg") no-repeat left top;
-	background-size: cover !important;
+	background: #F6F6F6 url("../images/team-c-ieu5404-fr.png") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/team-c.jpg") no-repeat left top;
+	background-color: #F6F6F6;
+	background-size: cover;
 }
 
 #buttonu5395.ButtonSelected #u5404,#buttonu5405.ButtonSelected #u5411,#buttonu5425.ButtonSelected #u5428,#buttonu5415.ButtonSelected #u5420
@@ -1210,22 +1299,30 @@
 	background-repeat: no-repeat;
 	background-position: left top;
 	margin: 0px;
-	background-size: cover !important;
+	background-size: cover;
 }
 
 #pu5398-6,#pu5412-6,#pu5434-6,#pu5423-6
 {
 	width: 0.01px;
 	margin-top: 16px;
-	position: relative;
 }
 
 #u5423-6
 {
 	z-index: 16;
 	width: 300px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+}
+
+#buttonu5395.ButtonSelected #u5398-6,#buttonu5405.ButtonSelected #u5412-6,#buttonu5425.ButtonSelected #u5434-6,#buttonu5415.ButtonSelected #u5423-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u5398-2,#u5412-2,#u5434-2,#u5423-2
@@ -1244,7 +1341,7 @@
 #u5418
 {
 	z-index: 22;
-	width: 16px;
+	width: 20px;
 	min-height: 22px;
 	border-style: none;
 	border-color: transparent;
@@ -1261,7 +1358,7 @@
 #u5421
 {
 	z-index: 23;
-	width: 17px;
+	width: 20px;
 	min-height: 22px;
 	border-style: none;
 	border-color: transparent;
@@ -1278,7 +1375,7 @@
 #u5416
 {
 	z-index: 24;
-	width: 16px;
+	width: 20px;
 	min-height: 22px;
 	border-style: none;
 	border-color: transparent;
@@ -1304,7 +1401,6 @@
 	width: 0.01px;
 	margin-left: 22px;
 	margin-top: 90px;
-	position: relative;
 }
 
 #buttonu6535
@@ -1315,28 +1411,28 @@
 	position: relative;
 	margin-right: -10000px;
 	background: #282828 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
-	background-size: contain !important;
+	background-size: contain;
 }
 
 #buttonu6535:hover
 {
 	margin: 0px -10000px 0px 0px;
 	background: #6CDCE7 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
-	background-size: contain !important;
+	background-size: contain;
 }
 
 #buttonu6535:active
 {
 	margin: 0px -10000px 0px 0px;
 	background: #6CDCE7 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
-	background-size: contain !important;
+	background-size: contain;
 }
 
 #buttonu6535.ButtonSelected
 {
 	margin: 0px -10000px 0px 0px;
 	background: #6CDCE7 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
-	background-size: contain !important;
+	background-size: contain;
 }
 
 .Button--Normal
@@ -1355,6 +1451,7 @@
 	z-index: 51;
 	width: 500px;
 	min-height: 21px;
+	background-color: transparent;
 	color: #696F6F;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -1367,8 +1464,8 @@
 #u6529
 {
 	z-index: 47;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -1384,8 +1481,8 @@
 #u6531
 {
 	z-index: 48;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -1401,8 +1498,8 @@
 #u6533
 {
 	z-index: 49;
-	width: 16px;
-	min-height: 17px;
+	width: 20px;
+	min-height: 20px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -1413,6 +1510,12 @@
 	margin-right: -10000px;
 	margin-top: 12px;
 	left: 900px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
 }
 
 #page .verticalspacer
