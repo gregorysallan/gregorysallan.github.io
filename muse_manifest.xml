@@ -1,11 +1,11 @@
-<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1411261741661">
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1411261806461">
   <folder name="css">
     <file name="site_global.css" crc="61002835"/>
     <file name="contact.css" crc="3939619350" ref="contact"/>
     <file name="iefonts_contact.css" crc="4211356029" ref="contact"/>
     <file name="our-team.css" crc="4095645975" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="3848285368" ref="our-team"/>
-    <file name="index.css" crc="22080276" ref="index"/>
+    <file name="index.css" crc="4142263655" ref="index"/>
     <file name="iefonts_index.css" crc="437456992" ref="index"/>
   </folder>
   <folder name="assets">
@@ -41,7 +41,7 @@
     <file name="team-c-ieu5404-fr.png" crc="3815669310" ref="our-team"/>
     <file name="team-c.jpg" crc="360878032" ref="our-team"/>
   </folder>
-  <file name="index.html" crc="3922876540" mt="1411261699484" redirect="true"/>
+  <file name="index.html" crc="493146642" mt="1411261793514" redirect="true"/>
   <file name="our-team.html" crc="414612933" mt="1411259026882" redirect="true"/>
   <file name="contact.html" crc="17022847" mt="1411073734980" redirect="true"/>
 </manifest>
