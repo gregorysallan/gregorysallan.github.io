@@ -68,7 +68,32 @@
 	font-family: source-sans-pro-n4, sans-serif;
 }
 
-#u6603.MuseMenuActive #u6606-4 p
+#u6603.MuseMenuActive #u6606-4 p,#u7045:hover #u7046-4 p
+{
+	font-family: source-sans-pro-n4, sans-serif;
+}
+
+#u7045.MuseMenuActive #u7046-4 p,#u7052:hover #u7053-4 p
+{
+	font-family: source-sans-pro-n4, sans-serif;
+}
+
+#u7052.MuseMenuActive #u7053-4 p,#u7031:hover #u7032-4 p
+{
+	font-family: source-sans-pro-n4, sans-serif;
+}
+
+#u7031.MuseMenuActive #u7032-4 p,#u7059:hover #u7062-4 p
+{
+	font-family: source-sans-pro-n4, sans-serif;
+}
+
+#u7059.MuseMenuActive #u7062-4 p,#u7040:hover #u7041-4 p
+{
+	font-family: source-sans-pro-n4, sans-serif;
+}
+
+#u7040.MuseMenuActive #u7041-4 p
 {
 	font-family: source-sans-pro-n4, sans-serif;
 }

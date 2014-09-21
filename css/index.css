@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E8;
-	background-color: #443CFE;
+	color: #0000F3;
+	background-color: #F600F9;
 }
 
 .html
@@ -310,15 +310,15 @@
 #u7022
 {
 	float: left;
-	margin-top: -1px;
-	margin-bottom: 1px;
+	margin-top: 2px;
+	margin-bottom: -2px;
 	margin-right: 7px;
 }
 
 #u7022:hover
 {
 	min-height: 0px;
-	margin: -1px 7px 1px 0px;
+	margin: 2px 7px -2px 0px;
 }
 
 #u7023
@@ -365,28 +365,9 @@
 	left: 253px;
 }
 
-#u6991
-{
-	z-index: 127;
-	width: 70px;
-	height: 35px;
-	border-width: 3px;
-	border-style: solid;
-	border-color: #FFFFFF;
-	background-color: transparent;
-	-moz-border-radius: 3px;
-	-webkit-border-radius: 3px;
-	-khtml-border-radius: 3px;
-	border-radius: 3px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 21px;
-	left: 1276px;
-}
-
 #u7026-3
 {
-	z-index: 159;
+	z-index: 158;
 	width: 147px;
 	background-color: transparent;
 	position: relative;
@@ -397,7 +378,7 @@
 
 #u7027-4
 {
-	z-index: 162;
+	z-index: 161;
 	width: 87px;
 	min-height: 17px;
 	background-color: transparent;
@@ -418,7 +399,7 @@
 
 #menuu5221
 {
-	z-index: 128;
+	z-index: 127;
 	width: 394px;
 	border-style: none;
 	border-color: transparent;
