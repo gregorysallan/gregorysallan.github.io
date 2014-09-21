@@ -1,36 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://ScrewCutter.com/assets/video-pattern-two.png</loc>
-    <lastmod>2013-11-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ScrewCutter.com/assets/video-pattern.png</loc>
-    <lastmod>2014-01-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ScrewCutter.com/assets/video.mp4</loc>
-    <lastmod>2014-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ScrewCutter.com/assets/video.png</loc>
-    <lastmod>2014-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ScrewCutter.com/assets/iphone_icon.png</loc>
-    <lastmod>2014-04-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://ScrewCutter.com/images/a-master-favicon.ico</loc>
     <lastmod>2014-09-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -110,6 +80,12 @@
   </url>
   <url>
     <loc>http://ScrewCutter.com/images/team-c.jpg</loc>
+    <lastmod>2014-09-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ScrewCutter.com/images/new.png</loc>
     <lastmod>2014-09-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
