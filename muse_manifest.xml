@@ -1,12 +1,12 @@
-<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1411323122688">
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1411330899931">
   <folder name="css">
     <file name="site_global.css" crc="61002835"/>
     <file name="contact.css" crc="3939619350" ref="contact"/>
     <file name="iefonts_contact.css" crc="4211356029" ref="contact"/>
     <file name="our-team.css" crc="4095645975" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="3848285368" ref="our-team"/>
-    <file name="index.css" crc="445367979" ref="index"/>
-    <file name="iefonts_index.css" crc="4107610799" ref="index"/>
+    <file name="index.css" crc="3896786174" ref="index"/>
+    <file name="iefonts_index.css" crc="4023775836" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:our-team:contact"/>
@@ -35,7 +35,7 @@
     <file name="team-c.jpg" crc="360878032" ref="our-team"/>
     <file name="new.png" crc="3846075895" ref="index"/>
   </folder>
-  <file name="index.html" crc="101582123" mt="1411323114714" redirect="true"/>
+  <file name="index.html" crc="3883461515" mt="1411330875390" redirect="true"/>
   <file name="our-team.html" crc="138579662" mt="1411319326851" redirect="true"/>
   <file name="contact.html" crc="17022847" mt="1411073734980" redirect="true"/>
 </manifest>
