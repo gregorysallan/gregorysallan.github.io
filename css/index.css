@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F3;
-	background-color: #F600F9;
+	color: #0000FC;
+	background-color: #675CF3;
 }
 
 .html
@@ -52,13 +52,14 @@
 {
 	width: 0.01px;
 	margin-left: -322px;
+	margin-top: -1px;
 }
 
 #pu6646
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: 44px;
+	margin-top: 45px;
 }
 
 #u6646
@@ -116,7 +117,7 @@
 	z-index: 94;
 	height: 614px;
 	border-color: #000000;
-	background: #FFFFFF url("../images/betterhero.jpg") no-repeat center center;
+	background: #FFFFFF url("../images/screwcutterresults%20-283-29.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -126,10 +127,10 @@
 	height: 614px;
 }
 
-#u6992
+#u7072
 {
 	z-index: 96;
-	height: 612px;
+	height: 611px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -139,12 +140,12 @@
 	filter: alpha(opacity=62);
 }
 
-#u6992-bw
+#u7072-bw
 {
 	z-index: 96;
 	margin-bottom: -1px;
-	margin-top: 1px;
-	height: 614px;
+	margin-top: 2px;
+	height: 613px;
 }
 
 #u4603
@@ -157,20 +158,20 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 144px;
+	margin-top: 145px;
 	left: 744px;
 }
 
 #u4602-9
 {
 	z-index: 98;
-	width: 490px;
+	width: 443px;
 	min-height: 268px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 187px;
-	left: 254px;
+	margin-top: 174px;
+	left: 271px;
 }
 
 #u4602-2,#u4602-6
@@ -354,52 +355,31 @@
 	color: #FFFFFF;
 }
 
-#u6663
-{
-	z-index: 125;
-	width: 116px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 27px;
-	left: 253px;
-}
-
 #u7026-3
 {
-	z-index: 158;
+	z-index: 156;
 	width: 147px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 517px;
+	margin-top: 518px;
 	left: 369px;
 }
 
-#u7027-4
+#u7079
 {
-	z-index: 161;
-	width: 87px;
-	min-height: 17px;
+	z-index: 163;
+	width: 116px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-family: open-sans, sans-serif;
-	font-weight: 600;
-	font-style: normal;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 403px;
-	left: 442px;
-}
-
-#u7027
-{
-	text-decoration: underline;
+	margin-top: 23px;
+	left: 250px;
 }
 
 #menuu5221
 {
-	z-index: 127;
+	z-index: 125;
 	width: 394px;
 	border-style: none;
 	border-color: transparent;
@@ -699,7 +679,6 @@
 {
 	width: 0.01px;
 	margin-left: -100px;
-	margin-top: -1px;
 }
 
 #u6953
@@ -799,6 +778,32 @@
 	left: 302px;
 }
 
+#pu7027-4
+{
+	width: 0.01px;
+	margin-left: -239px;
+	margin-top: 63px;
+}
+
+#u7027-4
+{
+	z-index: 159;
+	width: 87px;
+	min-height: 17px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	font-style: normal;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7027
+{
+	text-decoration: underline;
+}
+
 #u4606-6
 {
 	z-index: 4;
@@ -806,9 +811,10 @@
 	min-height: 123px;
 	border-style: none;
 	background-color: transparent;
-	margin-left: 22px;
-	margin-top: 66px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 3px;
+	left: 261px;
 }
 
 #u4606-6:hover
@@ -817,7 +823,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 123px;
-	margin: 66px 0px 0px 22px;
+	margin: 3px -10000px 0px 0px;
 }
 
 #u4606-6:active
@@ -826,7 +832,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 123px;
-	margin: 66px 0px 0px 22px;
+	margin: 3px -10000px 0px 0px;
 }
 
 #u4606-2

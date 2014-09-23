@@ -1,12 +1,12 @@
-<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1411331100163">
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1411511927821">
   <folder name="css">
     <file name="site_global.css" crc="61002835"/>
     <file name="contact.css" crc="3939619350" ref="contact"/>
     <file name="iefonts_contact.css" crc="4211356029" ref="contact"/>
     <file name="our-team.css" crc="3778044102" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="152439274" ref="our-team"/>
-    <file name="index.css" crc="4092985593" ref="index"/>
-    <file name="iefonts_index.css" crc="4023775836" ref="index"/>
+    <file name="index.css" crc="4234632435" ref="index"/>
+    <file name="iefonts_index.css" crc="131460145" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:our-team:contact"/>
@@ -28,14 +28,14 @@
     <file name="white-up-arrow-buttonu4866-fr.png" crc="79972222" ref="index:contact:our-team"/>
     <file name="coloredlogo-buttonu5906-fr.png" crc="4285968918" ref="our-team:contact"/>
     <file name="web_logo.png" crc="110686454" ref="index"/>
-    <file name="betterhero.jpg" crc="4044938595" ref="index"/>
     <file name="screw dimensions.jpg" crc="3761910725" ref="our-team"/>
     <file name="logo-buttonu5903-fr.png" crc="3892962332" ref="our-team:contact"/>
     <file name="team-c-ieu5404-fr.png" crc="3815669310" ref="our-team"/>
     <file name="team-c.jpg" crc="360878032" ref="our-team"/>
     <file name="new.png" crc="3846075895" ref="index"/>
+    <file name="screwcutterresults -283-29.jpg" crc="3835692244" ref="index"/>
   </folder>
-  <file name="index.html" crc="4283283421" mt="1411331086943" redirect="true"/>
+  <file name="index.html" crc="4118609979" mt="1411511903377" redirect="true"/>
   <file name="our-team.html" crc="3964630356" mt="1411331071655" redirect="true"/>
   <file name="contact.html" crc="17022847" mt="1411073734980" redirect="true"/>
 </manifest>
