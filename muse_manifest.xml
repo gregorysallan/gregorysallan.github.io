@@ -1,15 +1,15 @@
-<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1411678848596">
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1411679211280">
   <folder name="phone">
     <folder name="css">
       <file name="about.css" crc="199181910" ref="phone>about"/>
       <file name="contact.css" crc="1598488" ref="phone>contact"/>
       <file name="iefonts_contact.css" crc="83758533" ref="phone>contact"/>
-      <file name="index.css" crc="174980986" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="3930845709" ref="phone>index"/>
+      <file name="index.css" crc="535199887" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3921930367" ref="phone>index"/>
       <file name="team.css" crc="503470642" ref="phone>team"/>
       <file name="iefonts_team.css" crc="321690354" ref="phone>team"/>
     </folder>
-    <file name="index.html" crc="183267902" mt="1411678844003" redirect="true"/>
+    <file name="index.html" crc="66630011" mt="1411679200076" redirect="true"/>
     <file name="contact.html" crc="3840168162" mt="1411678844005" redirect="true"/>
     <file name="team.html" crc="3772110751" mt="1411678844007" redirect="true"/>
     <file name="about.html" crc="126826910" mt="1411678837238" redirect="true"/>
