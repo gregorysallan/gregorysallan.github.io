@@ -1,7 +1,7 @@
 .version.our_team /* version checker */
 {
-	color: #0000E1;
-	background-color: #3060C6;
+	color: #0000F7;
+	background-color: #F017B9;
 }
 
 .html
@@ -974,7 +974,7 @@
 	border-radius: 3px;
 	position: relative;
 	background: #F6F6F6 url("../images/team-c-ieu5404-fr.png") no-repeat left top;
-	background: rgba(0,0,0,0) url("../images/team-c.jpg") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/team-c2.jpg") no-repeat left top;
 	background-color: #F6F6F6;
 	background-size: cover;
 }
@@ -1066,7 +1066,7 @@
 	border-radius: 3px;
 	position: relative;
 	background: #F6F6F6 url("../images/team-c-ieu5404-fr.png") no-repeat left top;
-	background: rgba(0,0,0,0) url("../images/team-c.jpg") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/team-c2.jpg") no-repeat left top;
 	background-color: #F6F6F6;
 	background-size: cover;
 }
@@ -1163,7 +1163,7 @@
 	border-radius: 3px;
 	position: relative;
 	background: #F6F6F6 url("../images/team-c-ieu5404-fr.png") no-repeat left top;
-	background: rgba(0,0,0,0) url("../images/team-c.jpg") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/team-c2.jpg") no-repeat left top;
 	background-color: #F6F6F6;
 	background-size: cover;
 }
@@ -1264,7 +1264,7 @@
 	border-radius: 3px;
 	position: relative;
 	background: #F6F6F6 url("../images/team-c-ieu5404-fr.png") no-repeat left top;
-	background: rgba(0,0,0,0) url("../images/team-c.jpg") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/team-c2.jpg") no-repeat left top;
 	background-color: #F6F6F6;
 	background-size: cover;
 }
