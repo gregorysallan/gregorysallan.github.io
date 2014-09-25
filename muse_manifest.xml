@@ -1,18 +1,18 @@
-<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1411679211280">
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1411679494453">
   <folder name="phone">
     <folder name="css">
-      <file name="about.css" crc="199181910" ref="phone>about"/>
-      <file name="contact.css" crc="1598488" ref="phone>contact"/>
-      <file name="iefonts_contact.css" crc="83758533" ref="phone>contact"/>
-      <file name="index.css" crc="535199887" ref="phone>index"/>
+      <file name="about.css" crc="301527934" ref="phone>about"/>
+      <file name="contact.css" crc="4281364903" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="412056902" ref="phone>contact"/>
+      <file name="index.css" crc="4169392963" ref="phone>index"/>
       <file name="iefonts_index.css" crc="3921930367" ref="phone>index"/>
-      <file name="team.css" crc="503470642" ref="phone>team"/>
-      <file name="iefonts_team.css" crc="321690354" ref="phone>team"/>
+      <file name="team.css" crc="3897218264" ref="phone>team"/>
+      <file name="iefonts_team.css" crc="4084886561" ref="phone>team"/>
     </folder>
-    <file name="index.html" crc="66630011" mt="1411679200076" redirect="true"/>
-    <file name="contact.html" crc="3840168162" mt="1411678844005" redirect="true"/>
-    <file name="team.html" crc="3772110751" mt="1411678844007" redirect="true"/>
-    <file name="about.html" crc="126826910" mt="1411678837238" redirect="true"/>
+    <file name="index.html" crc="3936369811" mt="1411679421364" redirect="true"/>
+    <file name="contact.html" crc="4093144639" mt="1411679481121" redirect="true"/>
+    <file name="team.html" crc="374754114" mt="1411679446279" redirect="true"/>
+    <file name="about.html" crc="148345791" mt="1411679460829" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="61002835"/>
@@ -59,6 +59,7 @@
     <file name="team-a-u7551-fr.jpg" crc="43603798" ref="phone>team"/>
     <file name="team-b-u7561-fr.jpg" crc="497686671" ref="phone>team"/>
     <file name="team-c2.jpg" crc="360878032" ref="our-team"/>
+    <file name="fa-bars__font_awesome_icons.jpg" crc="4208343723" ref="phone>index:phone>contact:phone>team:phone>about"/>
   </folder>
   <file name="index.html" crc="471695358" mt="1411677902178" redirect="true"/>
   <file name="our-team.html" crc="4290350239" mt="1411675439018" redirect="true"/>
