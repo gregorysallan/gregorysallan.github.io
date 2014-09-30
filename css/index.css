@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F8;
-	background-color: #32A3A8;
+	color: #0000ED;
+	background-color: #CAB550;
 }
 
 .html
@@ -208,7 +208,7 @@
 #buttonu8028
 {
 	z-index: 36;
-	width: 204px;
+	width: 213px;
 	height: 62px;
 	border-width: 3px;
 	border-style: solid;
@@ -220,7 +220,7 @@
 
 #pbuttonu8028:hover #buttonu8028
 {
-	width: 207px;
+	width: 216px;
 	height: 65px;
 	background-image: none;
 	border-style: none;
@@ -242,7 +242,7 @@
 
 #pbuttonu8028.ButtonSelected #buttonu8028
 {
-	width: 207px;
+	width: 216px;
 	height: 65px;
 	background-image: none;
 	border-style: none;
@@ -276,7 +276,7 @@
 #u8029-5
 {
 	z-index: 37;
-	width: 176px;
+	width: 181px;
 	min-height: 24px;
 	background-color: transparent;
 	line-height: 19px;
@@ -288,10 +288,10 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	position: relative;
-	width: 176px;
+	width: 181px;
 	margin-right: -10000px;
 	margin-top: 19px;
-	left: 15px;
+	left: 19px;
 	min-height: 24px;
 }
 
@@ -300,10 +300,10 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	position: relative;
-	width: 176px;
+	width: 181px;
 	margin-right: -10000px;
 	margin-top: 19px;
-	left: 15px;
+	left: 19px;
 	min-height: 24px;
 }
 
@@ -316,15 +316,13 @@
 #u8030
 {
 	float: left;
-	margin-top: 2px;
-	margin-bottom: -2px;
 	margin-right: 7px;
 }
 
 #u8030:hover
 {
 	min-height: 0px;
-	margin: 2px 7px -2px 0px;
+	margin: 0px 7px 0px 0px;
 }
 
 #u8031
@@ -348,10 +346,10 @@
 #pbuttonu8028 #u8029-5
 {
 	position: relative;
-	width: 176px;
+	width: 181px;
 	margin-right: -10000px;
 	margin-top: 17px;
-	left: 13px;
+	left: 17px;
 }
 
 #u8026-7
@@ -495,7 +493,7 @@
 	line-height: 36px;
 	color: #282828;
 	margin-left: 22px;
-	margin-top: 16px;
+	margin-top: 35px;
 	position: relative;
 }
 
@@ -505,7 +503,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 49px;
-	margin: 16px 0px 0px 22px;
+	margin: 35px 0px 0px 22px;
 }
 
 #u8000-4:active
@@ -514,13 +512,14 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 49px;
-	margin: 16px 0px 0px 22px;
+	margin: 35px 0px 0px 22px;
 }
 
 #pbuttonu7999
 {
 	width: 0.01px;
 	margin-left: 12px;
+	margin-top: 8px;
 }
 
 #buttonu7999
@@ -605,6 +604,7 @@ body
 {
 	position: relative;
 	min-width: 960px;
+	padding-bottom: 44px;
 }
 
 #page .verticalspacer
