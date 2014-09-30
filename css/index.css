@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000ED;
-	background-color: #CAB550;
+	color: #0000E1;
+	background-color: #A3A388;
 }
 
 .html
@@ -64,7 +64,7 @@
 
 #u8016
 {
-	z-index: 53;
+	z-index: 50;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -75,7 +75,7 @@
 
 #u8021
 {
-	z-index: 50;
+	z-index: 47;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -88,7 +88,7 @@
 
 #u8020
 {
-	z-index: 51;
+	z-index: 48;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -101,7 +101,7 @@
 
 #u8073
 {
-	z-index: 52;
+	z-index: 49;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -273,69 +273,47 @@
 	border-radius: 3px;
 }
 
-#u8029-5
+#u8029-4
 {
 	z-index: 37;
-	width: 181px;
+	width: 126px;
 	min-height: 24px;
 	background-color: transparent;
 	line-height: 19px;
 	color: #FFFFFF;
 }
 
-#pbuttonu8028:hover #u8029-5
+#pbuttonu8028:hover #u8029-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	position: relative;
-	width: 181px;
+	width: 126px;
 	margin-right: -10000px;
 	margin-top: 19px;
-	left: 19px;
+	left: 50px;
 	min-height: 24px;
 }
 
-#pbuttonu8028.ButtonSelected #u8029-5
+#pbuttonu8028.ButtonSelected #u8029-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	position: relative;
-	width: 181px;
+	width: 126px;
 	margin-right: -10000px;
 	margin-top: 19px;
-	left: 19px;
+	left: 50px;
 	min-height: 24px;
 }
 
-#u8029-3
+#u8029-2
 {
 	text-align: left;
 	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
 }
 
-#u8030
-{
-	float: left;
-	margin-right: 7px;
-}
-
-#u8030:hover
-{
-	min-height: 0px;
-	margin: 0px 7px 0px 0px;
-}
-
-#u8031
-{
-	z-index: 42;
-	width: 30px;
-	min-height: 28px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-}
-
-#u8029-2
+#u8029
 {
 	font-size: 24px;
 	font-family: open-sans, sans-serif;
@@ -343,13 +321,13 @@
 	line-height: 29px;
 }
 
-#pbuttonu8028 #u8029-5
+#pbuttonu8028 #u8029-4
 {
 	position: relative;
-	width: 181px;
+	width: 126px;
 	margin-right: -10000px;
 	margin-top: 17px;
-	left: 17px;
+	left: 48px;
 }
 
 #u8026-7
@@ -360,7 +338,7 @@
 
 #u8014-3
 {
-	z-index: 54;
+	z-index: 51;
 	width: 147px;
 	background-color: transparent;
 	position: relative;
@@ -371,7 +349,7 @@
 
 #u8018
 {
-	z-index: 57;
+	z-index: 54;
 	width: 116px;
 	background-color: transparent;
 	position: relative;
