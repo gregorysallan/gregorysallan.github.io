@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F8;
-	background-color: #B7C85B;
+	color: #0000E0;
+	background-color: #7599E0;
 }
 
 @-ms-viewport
@@ -467,7 +467,7 @@
 #u7805
 {
 	z-index: 4;
-	height: 460px;
+	height: 469px;
 	border-color: #000000;
 	background: #FFFFFF url("../../images/screwcutterresults%20-283-29.jpg") no-repeat center center;
 	background-size: cover;
@@ -476,13 +476,13 @@
 #u7805-bw
 {
 	z-index: 4;
-	height: 460px;
+	height: 469px;
 }
 
 #u7809
 {
 	z-index: 5;
-	height: 460px;
+	height: 469px;
 	border-color: #000000;
 	background-color: #46CAD7;
 	opacity: 0.62;
@@ -493,7 +493,7 @@
 #u7809-bw
 {
 	z-index: 5;
-	height: 460px;
+	height: 469px;
 }
 
 #u7145-5
@@ -550,7 +550,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 277px;
-	left: 43px;
+	left: 42px;
 }
 
 #buttonu7319
@@ -566,7 +566,7 @@
 	-khtml-border-radius: 3px;
 	border-radius: 3px;
 	margin-left: 62px;
-	margin-top: 225px;
+	margin-top: 216px;
 	position: relative;
 	padding: 53px 11px 32.25px 10px;
 }
@@ -575,7 +575,7 @@
 {
 	width: 234px;
 	min-height: 0px;
-	margin: 225px 0px 0px 62px;
+	margin: 216px 0px 0px 62px;
 }
 
 #u7320

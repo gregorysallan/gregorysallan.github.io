@@ -1,7 +1,7 @@
 .version.our_team /* version checker */
 {
-	color: #0000F7;
-	background-color: #F017B9;
+	color: #0000EA;
+	background-color: #404B53;
 }
 
 .html
@@ -974,7 +974,7 @@
 	border-radius: 3px;
 	position: relative;
 	background: #F6F6F6 url("../images/team-c-ieu5404-fr.png") no-repeat left top;
-	background: rgba(0,0,0,0) url("../images/team-c2.jpg") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/team-c.jpg") no-repeat left top;
 	background-color: #F6F6F6;
 	background-size: cover;
 }
@@ -1066,7 +1066,7 @@
 	border-radius: 3px;
 	position: relative;
 	background: #F6F6F6 url("../images/team-c-ieu5404-fr.png") no-repeat left top;
-	background: rgba(0,0,0,0) url("../images/team-c2.jpg") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/team-c.jpg") no-repeat left top;
 	background-color: #F6F6F6;
 	background-size: cover;
 }
@@ -1163,7 +1163,7 @@
 	border-radius: 3px;
 	position: relative;
 	background: #F6F6F6 url("../images/team-c-ieu5404-fr.png") no-repeat left top;
-	background: rgba(0,0,0,0) url("../images/team-c2.jpg") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/team-c.jpg") no-repeat left top;
 	background-color: #F6F6F6;
 	background-size: cover;
 }
@@ -1264,7 +1264,7 @@
 	border-radius: 3px;
 	position: relative;
 	background: #F6F6F6 url("../images/team-c-ieu5404-fr.png") no-repeat left top;
-	background: rgba(0,0,0,0) url("../images/team-c2.jpg") no-repeat left top;
+	background: rgba(0,0,0,0) url("../images/team-c.jpg") no-repeat left top;
 	background-color: #F6F6F6;
 	background-size: cover;
 }
@@ -1705,28 +1705,28 @@
 	height: 33px;
 	position: relative;
 	margin-right: -10000px;
-	background: #282828 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
+	background: #282828 url("../images/white-up-arrow-buttonu7335-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu6535:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: #6CDCE7 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
+	background: #6CDCE7 url("../images/white-up-arrow-buttonu7335-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu6535:active
 {
 	margin: 0px -10000px 0px 0px;
-	background: #6CDCE7 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
+	background: #6CDCE7 url("../images/white-up-arrow-buttonu7335-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu6535.ButtonSelected
 {
 	margin: 0px -10000px 0px 0px;
-	background: #6CDCE7 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
+	background: #6CDCE7 url("../images/white-up-arrow-buttonu7335-fr.png") no-repeat center center;
 	background-size: contain;
 }
 

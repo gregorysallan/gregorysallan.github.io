@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000016;
-	background-color: #B330D0;
+	color: #0000F7;
+	background-color: #CCE057;
 }
 
 .html
@@ -1130,28 +1130,28 @@
 	margin-right: -10000px;
 	margin-top: 462px;
 	left: 355px;
-	background: #282828 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
+	background: #282828 url("../images/white-up-arrow-buttonu7335-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu6526:hover
 {
 	margin: 462px -10000px 0px 0px;
-	background: #6CDCE7 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
+	background: #6CDCE7 url("../images/white-up-arrow-buttonu7335-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu6526:active
 {
 	margin: 462px -10000px 0px 0px;
-	background: #6CDCE7 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
+	background: #6CDCE7 url("../images/white-up-arrow-buttonu7335-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu6526.ButtonSelected
 {
 	margin: 462px -10000px 0px 0px;
-	background: #6CDCE7 url("../images/white-up-arrow-buttonu4866-fr.png") no-repeat center center;
+	background: #6CDCE7 url("../images/white-up-arrow-buttonu7335-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
