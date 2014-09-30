@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1412119616984">
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1412119717008">
   <folder name="phone">
     <folder name="css">
       <file name="about.css" crc="301527934" ref="phone>about"/>
@@ -16,7 +16,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="61002835"/>
-    <file name="index.css" crc="3785597832" ref="index"/>
+    <file name="index.css" crc="4071835041" ref="index"/>
     <file name="iefonts_index.css" crc="177397338" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -50,5 +50,5 @@
     <file name="vch_neg-buttonu8005-fr.png" crc="3861326765" ref="index"/>
     <file name="ustop_neg-buttonu7980-fr.png" crc="4001827282" ref="index"/>
   </folder>
-  <file name="index.html" crc="4065824599" mt="1412119608320" redirect="true"/>
+  <file name="index.html" crc="90771417" mt="1412119709228" redirect="true"/>
 </manifest>
