@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1412119124839">
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1412119258088">
   <folder name="phone">
     <folder name="css">
       <file name="about.css" crc="301527934" ref="phone>about"/>
@@ -20,49 +20,56 @@
     <file name="iefonts_contact.css" crc="4211356029" ref="contact"/>
     <file name="our-team.css" crc="3930082131" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="152439274" ref="our-team"/>
-    <file name="index.css" crc="3841762262" ref="index"/>
-    <file name="iefonts_index.css" crc="131460145" ref="index"/>
+    <file name="index.css" crc="4073495260" ref="index"/>
+    <file name="iefonts_index.css" crc="415675607" ref="index"/>
     <file name="teaser.css" crc="3924252717" ref="teaser"/>
     <file name="iefonts_teaser.css" crc="3940489540" ref="teaser"/>
+    <file name="home-copy.css" crc="529152501" ref="home-copy"/>
+    <file name="iefonts_home-copy.css" crc="429256995" ref="home-copy"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:our-team:contact:phone>index:phone>contact:phone>team:phone>about:teaser"/>
-    <file name="museutils.js" crc="4136605575" ref="index:our-team:contact:phone>index:phone>contact:phone>team:phone>about:teaser"/>
-    <file name="pie.js" crc="3827607177" ref="index:our-team:contact:phone>index:phone>contact:phone>team:phone>about:teaser"/>
-    <file name="jquery.scrolleffects.js" crc="4183300935" ref="index:our-team:contact:phone>index:phone>contact:phone>team:phone>about:teaser"/>
-    <file name="jquery.musemenu.js" crc="4009181048" ref="our-team:contact:phone>index:phone>contact:phone>team:phone>about:index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="index:our-team:phone>index:phone>contact:teaser"/>
-    <file name="jquery.watch.js" crc="172956391" ref="index:our-team:contact:phone>index:phone>contact:phone>team:phone>about:teaser"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:our-team:contact:phone>index:phone>contact:phone>team:phone>about:teaser"/>
+    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:our-team:contact:phone>index:phone>contact:phone>team:phone>about:teaser:home-copy"/>
+    <file name="museutils.js" crc="4136605575" ref="index:our-team:contact:phone>index:phone>contact:phone>team:phone>about:teaser:home-copy"/>
+    <file name="pie.js" crc="3827607177" ref="index:our-team:contact:phone>index:phone>contact:phone>team:phone>about:teaser:home-copy"/>
+    <file name="jquery.scrolleffects.js" crc="4183300935" ref="index:our-team:contact:phone>index:phone>contact:phone>team:phone>about:teaser:home-copy"/>
+    <file name="jquery.musemenu.js" crc="4009181048" ref="our-team:contact:phone>index:phone>contact:phone>team:phone>about:home-copy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="index:our-team:phone>index:phone>contact:teaser:home-copy"/>
+    <file name="jquery.watch.js" crc="172956391" ref="index:our-team:contact:phone>index:phone>contact:phone>team:phone>about:teaser:home-copy"/>
+    <file name="html5shiv.js" crc="4241844378" ref="our-team:contact:phone>index:phone>contact:phone>team:phone>about:teaser:home-copy"/>
     <file name="webpro.js" crc="420478120" ref="phone>index:phone>contact:phone>team:phone>about"/>
     <file name="musewpdisclosure.js" crc="4228034700" ref="phone>index:phone>contact:phone>team:phone>about"/>
     <file name="museredirect.js" crc="305212102" ref="index:contact"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="4162851638" ref="index"/>
-    <file name="imag2470.jpg" crc="350295024" ref="index"/>
-    <file name="ubc_neg-buttonu4874-fr.png" crc="132588074" ref="index:teaser"/>
-    <file name="nserc_b_neg.png" crc="3875998953" ref="index:teaser"/>
-    <file name="vch_neg-buttonu4872-fr.png" crc="3861326765" ref="index:teaser"/>
-    <file name="ustop_neg-buttonu4878-fr.png" crc="4001827282" ref="index:teaser"/>
+    <file name="imag2470.jpg" crc="350295024" ref="home-copy"/>
+    <file name="ubc_neg-buttonu4874-fr.png" crc="132588074" ref="teaser"/>
+    <file name="nserc_b_neg.png" crc="3875998953" ref="index:teaser:home-copy"/>
+    <file name="vch_neg-buttonu4872-fr.png" crc="3861326765" ref="teaser"/>
+    <file name="ustop_neg-buttonu4878-fr.png" crc="4001827282" ref="teaser"/>
     <file name="coloredlogo-buttonu5906-fr.png" crc="4285968918" ref="our-team:contact"/>
-    <file name="web_logo.png" crc="110686454" ref="index:teaser"/>
+    <file name="web_logo.png" crc="110686454" ref="index:teaser:home-copy"/>
     <file name="screw dimensions.jpg" crc="3761910725" ref="our-team"/>
     <file name="logo-buttonu5903-fr.png" crc="3892962332" ref="our-team:contact"/>
     <file name="team-c-ieu5404-fr.png" crc="3815669310" ref="our-team"/>
     <file name="team-c.jpg" crc="360878032" ref="phone>team:our-team"/>
-    <file name="new.png" crc="3846075895" ref="index:teaser"/>
-    <file name="screwcutterresults -283-29.jpg" crc="3835692244" ref="index:phone>index:teaser"/>
+    <file name="new.png" crc="3846075895" ref="index:teaser:home-copy"/>
+    <file name="screwcutterresults -283-29.jpg" crc="3835692244" ref="index:phone>index:teaser:home-copy"/>
     <file name="favicon.ico" crc="425072659" ref="phone>index"/>
     <file name="blue.png" crc="515630717" ref="phone>index:phone>contact:phone>team"/>
-    <file name="white-up-arrow-buttonu7335-fr.png" crc="79972222" ref="phone>index:phone>contact:phone>team:our-team:contact:index"/>
+    <file name="white-up-arrow-buttonu7335-fr.png" crc="79972222" ref="phone>index:phone>contact:phone>team:our-team:contact"/>
     <file name="betterhero.jpg" crc="4044938595" ref="phone>contact"/>
     <file name="team-a-u7551-fr.jpg" crc="43603798" ref="phone>team"/>
     <file name="team-b-u7561-fr.jpg" crc="497686671" ref="phone>team"/>
     <file name="fa-bars__font_awesome_icons.jpg" crc="4208343723" ref="phone>index:phone>contact:phone>team:phone>about"/>
+    <file name="ubc_neg-buttonu8242-fr.png" crc="132588074" ref="index:home-copy"/>
+    <file name="vch_neg-buttonu8241-fr.png" crc="3861326765" ref="index:home-copy"/>
+    <file name="ustop_neg-buttonu8244-fr.png" crc="4001827282" ref="index:home-copy"/>
+    <file name="white-up-arrow-buttonu8137-fr.png" crc="79972222" ref="home-copy"/>
   </folder>
-  <file name="index.html" crc="4282506623" mt="1412119116138" redirect="true"/>
+  <file name="index.html" crc="4220592643" mt="1412119239122" redirect="true"/>
   <file name="our-team.html" crc="217226749" mt="1412119116144" redirect="true"/>
   <file name="contact.html" crc="4096716538" mt="1412119116149" redirect="true"/>
   <file name="teaser.html" crc="464107278" mt="1412119110155" redirect="true"/>
+  <file name="home-copy.html" crc="4046216623" mt="1412119170642" redirect="true"/>
 </manifest>
