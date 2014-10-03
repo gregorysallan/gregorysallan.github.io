@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1412348925265">
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1412349953803">
   <folder name="phone">
     <folder name="css">
       <file name="contact.css" crc="120655652" ref="phone>contact"/>
@@ -11,7 +11,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3934987947"/>
-    <file name="index.css" crc="243057636" ref="index"/>
+    <file name="index.css" crc="146802799" ref="index"/>
     <file name="iefonts_index.css" crc="3836918358" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -45,5 +45,5 @@
     <file name="map25.png" crc="66584637" ref="phone>contact"/>
     <file name="white-up-arrow-buttonu7535-fr.png" crc="79972222" ref="phone>contact"/>
   </folder>
-  <file name="index.html" crc="162518400" mt="1412348916107" redirect="true"/>
+  <file name="index.html" crc="179362287" mt="1412349942650" redirect="true"/>
 </manifest>
