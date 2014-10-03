@@ -1,13 +1,13 @@
-<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1412347445401">
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1412347702880">
   <folder name="phone">
     <folder name="css">
-      <file name="contact.css" crc="530598946" ref="phone>contact"/>
+      <file name="contact.css" crc="120655652" ref="phone>contact"/>
       <file name="iefonts_contact.css" crc="125976052" ref="phone>contact"/>
       <file name="index.css" crc="226047833" ref="phone>index"/>
       <file name="iefonts_index.css" crc="485834909" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="3784128734" mt="1412345737950" redirect="true"/>
-    <file name="contact.html" crc="96418243" mt="1412347428635" redirect="true"/>
+    <file name="contact.html" crc="3878354633" mt="1412347671964" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3934987947"/>
