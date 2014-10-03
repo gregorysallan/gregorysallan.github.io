@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F2;
-	background-color: #B345A1;
+	color: #00000E;
+	background-color: #7CC3E4;
 }
 
 .html
@@ -64,7 +64,7 @@
 
 #u8016
 {
-	z-index: 50;
+	z-index: 38;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -75,7 +75,7 @@
 
 #u8021
 {
-	z-index: 47;
+	z-index: 35;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -88,7 +88,7 @@
 
 #u8020
 {
-	z-index: 48;
+	z-index: 36;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -101,7 +101,7 @@
 
 #u8073
 {
-	z-index: 49;
+	z-index: 37;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -162,7 +162,7 @@
 	left: 744px;
 }
 
-#u8026-9
+#u8026-6
 {
 	z-index: 27;
 	width: 443px;
@@ -174,7 +174,7 @@
 	left: 271px;
 }
 
-#u8026-2,#u8026-6
+#u8026-2,#u8026-3
 {
 	text-align: left;
 	line-height: 36px;
@@ -182,155 +182,7 @@
 	color: #FFFFFF;
 }
 
-#u8026-3
-{
-	font-size: 1px;
-	line-height: 0px;
-}
-
-#u8027
-{
-	margin-top: 26px;
-	margin-bottom: -26px;
-}
-
-#u8027.ButtonSelected
-{
-	min-height: 0px;
-	margin: 26px 0px -26px;
-}
-
-#pbuttonu8028
-{
-	width: 0.01px;
-}
-
-#buttonu8028
-{
-	z-index: 36;
-	width: 213px;
-	height: 62px;
-	border-width: 3px;
-	border-style: solid;
-	border-color: #FFFFFF;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#pbuttonu8028:hover #buttonu8028
-{
-	width: 216px;
-	height: 65px;
-	background-image: none;
-	border-style: none;
-	border-color: #000000;
-	background-color: #6CDCE7;
-	background-color: rgba(108, 220, 231, 1);
-	-pie-background: none;
-	-moz-border-radius: 3px;
-	-webkit-border-radius: 3px;
-	-khtml-border-radius: 3px;
-	border-radius: 3px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 1px;
-	left: 0px;
-	margin-left: 1px;
-	min-height: 3px;
-}
-
-#pbuttonu8028.ButtonSelected #buttonu8028
-{
-	width: 216px;
-	height: 65px;
-	background-image: none;
-	border-style: none;
-	border-color: #000000;
-	background-color: #6CDCE7;
-	background-color: rgba(108, 220, 231, 1);
-	-pie-background: none;
-	-moz-border-radius: 3px;
-	-webkit-border-radius: 3px;
-	-khtml-border-radius: 3px;
-	border-radius: 3px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 1px;
-	left: 0px;
-	margin-left: 1px;
-	min-height: 3px;
-}
-
-.Button--Normal
-{
-	border-style: none;
-	border-color: #000000;
-	background-color: #46CAD7;
-	-moz-border-radius: 3px;
-	-webkit-border-radius: 3px;
-	-khtml-border-radius: 3px;
-	border-radius: 3px;
-}
-
-#u8029-4
-{
-	z-index: 37;
-	width: 126px;
-	min-height: 24px;
-	background-color: transparent;
-	line-height: 19px;
-	color: #FFFFFF;
-}
-
-#pbuttonu8028:hover #u8029-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	position: relative;
-	width: 126px;
-	margin-right: -10000px;
-	margin-top: 19px;
-	left: 59px;
-	min-height: 24px;
-}
-
-#pbuttonu8028.ButtonSelected #u8029-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	position: relative;
-	width: 126px;
-	margin-right: -10000px;
-	margin-top: 19px;
-	left: 59px;
-	min-height: 24px;
-}
-
-#u8029-2
-{
-	text-align: left;
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
-}
-
-#u8029
-{
-	font-size: 24px;
-	font-family: open-sans, sans-serif;
-	font-weight: 600;
-	line-height: 29px;
-}
-
-#pbuttonu8028 #u8029-4
-{
-	position: relative;
-	width: 126px;
-	margin-right: -10000px;
-	margin-top: 17px;
-	left: 57px;
-}
-
-#u8026-7
+#u8026-4
 {
 	text-align: left;
 	color: #FFFFFF;
@@ -338,7 +190,7 @@
 
 #u8014-3
 {
-	z-index: 51;
+	z-index: 39;
 	width: 147px;
 	background-color: transparent;
 	position: relative;
@@ -349,7 +201,7 @@
 
 #u8018
 {
-	z-index: 54;
+	z-index: 42;
 	width: 116px;
 	background-color: transparent;
 	position: relative;
@@ -358,18 +210,18 @@
 	left: 250px;
 }
 
-#u8277
+#u8373
 {
-	z-index: 56;
-	width: 30px;
-	min-height: 28px;
+	z-index: 44;
+	width: 436px;
+	min-height: 100px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 420px;
-	left: 293px;
+	margin-top: 404px;
+	left: 269px;
 }
 
 #pu7993
@@ -482,8 +334,8 @@
 	min-height: 49px;
 	border-style: none;
 	background-color: transparent;
-	line-height: 36px;
 	color: #282828;
+	line-height: 36px;
 	margin-left: 22px;
 	margin-top: 35px;
 	position: relative;
