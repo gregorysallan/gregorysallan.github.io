@@ -1,4 +1,4 @@
-<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1412347702880">
+<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1412347760963">
   <folder name="phone">
     <folder name="css">
       <file name="contact.css" crc="120655652" ref="phone>contact"/>
@@ -7,7 +7,7 @@
       <file name="iefonts_index.css" crc="485834909" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="3784128734" mt="1412345737950" redirect="true"/>
-    <file name="contact.html" crc="3878354633" mt="1412347671964" redirect="true"/>
+    <file name="contact.html" crc="3878354633" mt="1412347749721" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="3934987947"/>
