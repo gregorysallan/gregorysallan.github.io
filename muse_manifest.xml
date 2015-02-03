@@ -1,39 +1,38 @@
-<manifest alg="2" build="6" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1416255476972">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1422940563689" iceMarkupVersion="2">
   <folder name="phone">
     <folder name="css">
-      <file name="contact.css" crc="120655652" ref="phone>contact"/>
+      <file name="contact.css" crc="4262127165" ref="phone>contact"/>
       <file name="iefonts_contact.css" crc="125976052" ref="phone>contact"/>
       <file name="index.css" crc="226047833" ref="phone>index"/>
       <file name="iefonts_index.css" crc="485834909" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3784128734" mt="1412345737950" redirect="true"/>
-    <file name="contact.html" crc="3878354633" mt="1412347749721" redirect="true"/>
+    <file name="index.html" crc="347622925" mt="1412345737950" redirect="true"/>
+    <file name="contact.html" crc="374072564" mt="1412347749721" redirect="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="61002835"/>
-    <file name="index.css" crc="4011777295" ref="index"/>
+    <file name="site_global.css" crc="4068836695"/>
+    <file name="index.css" crc="345285709" ref="index"/>
     <file name="iefonts_index.css" crc="3939847130" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="4021225061" ref="index:phone>index:phone>contact"/>
-    <file name="museutils.js" crc="4136605575" ref="index:phone>index:phone>contact"/>
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:phone>index:phone>contact"/>
+    <file name="museutils.js" crc="3777594392" ref="index:phone>index:phone>contact"/>
     <file name="pie.js" crc="3827607177" ref="phone>index:phone>contact"/>
-    <file name="jquery.scrolleffects.js" crc="4183300935" ref="index:phone>index:phone>contact"/>
-    <file name="jquery.musemenu.js" crc="4009181048" ref="phone>index:phone>contact"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="242197875" ref="index:phone>index:phone>contact"/>
-    <file name="jquery.watch.js" crc="172956391" ref="index:phone>index:phone>contact"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="index:phone>index:phone>contact"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="phone>index:phone>contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index:phone>index:phone>contact"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:phone>index:phone>contact"/>
     <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact"/>
-    <file name="webpro.js" crc="420478120" ref="phone>index:phone>contact"/>
-    <file name="musewpdisclosure.js" crc="4228034700" ref="phone>index:phone>contact"/>
-    <file name="museredirect.js" crc="305212102" ref="index"/>
+    <file name="webpro.js" crc="474087315" ref="phone>index:phone>contact"/>
+    <file name="musewpdisclosure.js" crc="3952359668" ref="phone>index:phone>contact"/>
+    <file name="museredirect.js" crc="17485671" ref="index"/>
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="4162851638" ref="index"/>
-    <file name="nserc_b_neg.png" crc="3875998953" ref="index"/>
     <file name="web_logo.png" crc="110686454" ref="index"/>
     <file name="new.png" crc="3846075895" ref="index"/>
     <file name="screwcutterresults -283-29.jpg" crc="3835692244" ref="index:phone>index"/>
-    <file name="favicon.ico" crc="425072659" ref="phone>index:phone>contact"/>
+    <file name="favicon.ico" crc="425072659" ref="phone>index"/>
     <file name="blue.png" crc="515630717" ref="phone>index:phone>contact"/>
     <file name="betterhero.jpg" crc="4044938595" ref="phone>contact"/>
     <file name="fa-bars__font_awesome_icons.jpg" crc="4208343723" ref="phone>index:phone>contact"/>
@@ -44,6 +43,8 @@
     <file name="envelope4.png" crc="506517303" ref="phone>contact"/>
     <file name="map25.png" crc="66584637" ref="phone>contact"/>
     <file name="white-up-arrow-buttonu7535-fr.png" crc="79972222" ref="phone>contact"/>
+    <file name="nserc_b_neg-buttonu7983-fr.png" crc="258067240" ref="index"/>
+    <file name="pasted image 1023x292.jpg" crc="66317432" ref="index"/>
   </folder>
-  <file name="index.html" crc="174571127" mt="1416255178818" redirect="true"/>
+  <file name="index.html" crc="3849093819" mt="1422940555429" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EF;
-	background-color: #1EDD0F;
+	color: #000014;
+	background-color: #94A44D;
 }
 
 .html
@@ -64,7 +64,7 @@
 
 #u8016
 {
-	z-index: 38;
+	z-index: 40;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -75,7 +75,7 @@
 
 #u8021
 {
-	z-index: 35;
+	z-index: 37;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -88,7 +88,7 @@
 
 #u8020
 {
-	z-index: 36;
+	z-index: 38;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -101,7 +101,7 @@
 
 #u8073
 {
-	z-index: 37;
+	z-index: 39;
 	width: 200px;
 	min-height: 100px;
 	border-style: none;
@@ -114,7 +114,7 @@
 
 #u8036
 {
-	z-index: 23;
+	z-index: 25;
 	height: 614px;
 	border-color: #000000;
 	background: #FFFFFF url("../images/screwcutterresults%20-283-29.jpg") no-repeat center center;
@@ -123,13 +123,13 @@
 
 #u8036-bw
 {
-	z-index: 23;
+	z-index: 25;
 	height: 614px;
 }
 
 #u8015
 {
-	z-index: 25;
+	z-index: 27;
 	height: 611px;
 	border-width: 1px;
 	border-style: solid;
@@ -142,7 +142,7 @@
 
 #u8015-bw
 {
-	z-index: 25;
+	z-index: 27;
 	margin-bottom: -1px;
 	margin-top: 2px;
 	height: 613px;
@@ -150,7 +150,7 @@
 
 #u8023
 {
-	z-index: 26;
+	z-index: 28;
 	width: 606px;
 	min-height: 345px;
 	border-style: none;
@@ -164,7 +164,7 @@
 
 #u8026-6
 {
-	z-index: 27;
+	z-index: 29;
 	width: 443px;
 	min-height: 268px;
 	background-color: transparent;
@@ -190,7 +190,7 @@
 
 #u8014-3
 {
-	z-index: 39;
+	z-index: 41;
 	width: 147px;
 	background-color: transparent;
 	position: relative;
@@ -201,7 +201,7 @@
 
 #u8018
 {
-	z-index: 42;
+	z-index: 44;
 	width: 116px;
 	background-color: transparent;
 	position: relative;
@@ -212,7 +212,7 @@
 
 #u8373
 {
-	z-index: 44;
+	z-index: 46;
 	width: 460px;
 	min-height: 146px;
 	border-style: none;
@@ -226,13 +226,13 @@
 
 #u8375-4
 {
-	z-index: 45;
+	z-index: 47;
 	width: 102px;
 	min-height: 24px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -379,7 +379,7 @@
 #pbuttonu7999
 {
 	width: 0.01px;
-	margin-left: 12px;
+	margin-left: -81px;
 	margin-top: 8px;
 }
 
@@ -394,7 +394,7 @@
 	filter: alpha(opacity=50);
 	position: relative;
 	margin-right: -10000px;
-	left: 237px;
+	left: 415px;
 	background: transparent url("../images/ubc_neg-buttonu7999-fr.png") no-repeat center center;
 	background-size: contain;
 }
@@ -402,15 +402,15 @@
 #buttonu7983
 {
 	z-index: 8;
-	width: 225px;
-	height: 100px;
+	width: 188px;
+	height: 89px;
 	border-color: #787878;
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/nserc_b_neg.png") no-repeat center center;
+	background: transparent url("../images/nserc_b_neg-buttonu7983-fr.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -425,7 +425,7 @@
 	filter: alpha(opacity=50);
 	position: relative;
 	margin-right: -10000px;
-	left: 711px;
+	left: 863px;
 	background: transparent url("../images/vch_neg-buttonu8005-fr.png") no-repeat center center;
 	background-size: contain;
 }
@@ -441,7 +441,7 @@
 	filter: alpha(opacity=50);
 	position: relative;
 	margin-right: -10000px;
-	left: 433px;
+	left: 604px;
 	background: transparent url("../images/ustop_neg-buttonu7980-fr.png") no-repeat center center;
 	background-size: contain;
 }
@@ -459,6 +459,20 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
+}
+
+#u8384
+{
+	z-index: 23;
+	width: 245px;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 15px;
+	left: 218px;
 }
 
 body

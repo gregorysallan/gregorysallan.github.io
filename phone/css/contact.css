@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000007;
-	background-color: #310F24;
+	color: #0000FE;
+	background-color: #0AE63D;
 }
 
 @-ms-viewport
@@ -384,8 +384,8 @@
 	min-height: 16px;
 	background-color: transparent;
 	font-size: 13px;
-	line-height: 16px;
 	color: #DEDEDE;
+	line-height: 16px;
 	letter-spacing: 1px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
@@ -428,9 +428,9 @@
 	width: 246px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 30px;
 	line-height: 30px;
+	font-size: 30px;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -446,8 +446,8 @@
 	min-height: 16px;
 	background-color: transparent;
 	font-size: 13px;
-	line-height: 16px;
 	color: #DEDEDE;
+	line-height: 16px;
 	letter-spacing: 1px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
