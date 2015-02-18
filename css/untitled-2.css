@@ -1,0 +1,502 @@
+.version.untitled_2 /* version checker */
+{
+	color: #0000FE;
+	background-color: #651E7A;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 599.4656250000003px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	padding-bottom: 1px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu8446
+{
+	width: 0.01px;
+	margin-left: -100px;
+}
+
+#u8446
+{
+	z-index: 11;
+	height: 233px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background: #FFFFFF url("../images/screw%20dimensions.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u8446-bw
+{
+	z-index: 11;
+	margin-bottom: -1px;
+	height: 235px;
+}
+
+#u8447
+{
+	z-index: 12;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #444444;
+	background-color: rgba(0, 0, 0, 0.73);
+	padding-bottom: 0px;
+	-pie-background: rgba(0, 0, 0, 0.73);
+}
+
+#u8447_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 959px;
+	position: relative;
+	left: -100px;
+}
+
+#u8447_position_content
+{
+	margin-bottom: -18px;
+	padding-top: 21px;
+}
+
+#pu8480
+{
+	width: 0.01px;
+	left: 27px;
+	position: relative;
+}
+
+#u8480
+{
+	z-index: 57;
+	width: 116px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u8485-4
+{
+	z-index: 63;
+	width: 102px;
+	min-height: 24px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 887px;
+}
+
+#u8483-4
+{
+	z-index: 59;
+	width: 102px;
+	min-height: 24px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 998px;
+}
+
+#u8448-7
+{
+	z-index: 13;
+	width: 916px;
+	min-height: 124px;
+	background-color: transparent;
+	left: 121px;
+	margin-top: 68px;
+	position: relative;
+}
+
+#u8448-4
+{
+	line-height: 36px;
+	padding-bottom: 20px;
+	color: #FFFFFF;
+}
+
+#u8448-2
+{
+	color: #46CAD7;
+}
+
+#u8447-bw
+{
+	z-index: 12;
+	margin-bottom: -1px;
+	height: 235px;
+}
+
+#pbuttonu8437
+{
+	width: 0.01px;
+	margin-left: -57px;
+	margin-top: 54px;
+}
+
+#buttonu8437
+{
+	z-index: 2;
+	width: 300px;
+	border-color: #F6F6F6;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	padding-bottom: 52px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+}
+
+#u8438
+{
+	z-index: 3;
+	width: 249px;
+	height: 249px;
+	border-color: #000000;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	position: relative;
+	background: #F6F6F6 url("../images/team-c-u8438-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u8443-6
+{
+	z-index: 4;
+	width: 300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u8444
+{
+	z-index: 10;
+	width: 20px;
+	min-height: 22px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	position: relative;
+	margin-right: -10000px;
+	left: 229px;
+}
+
+#buttonu8462
+{
+	z-index: 20;
+	width: 300px;
+	border-color: #F6F6F6;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	padding-bottom: 52px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 271px;
+}
+
+#u8466
+{
+	z-index: 21;
+	width: 249px;
+	height: 249px;
+	border-color: #000000;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	position: relative;
+	background: #F6F6F6 url("../images/team-c-u8438-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#u8463-6
+{
+	z-index: 22;
+	width: 300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u8464
+{
+	z-index: 28;
+	width: 20px;
+	min-height: 22px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	position: relative;
+	margin-right: -10000px;
+	left: 229px;
+}
+
+#buttonu8467
+{
+	z-index: 29;
+	width: 300px;
+	border-color: #F6F6F6;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	padding-bottom: 52px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 550px;
+}
+
+#u8471
+{
+	z-index: 30;
+	width: 249px;
+	height: 249px;
+	border-color: #000000;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	position: relative;
+	background: #F6F6F6 url("../images/team-c-u8438-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#buttonu8437.ButtonSelected #u8438,#buttonu8462.ButtonSelected #u8466,#buttonu8467.ButtonSelected #u8471
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	margin: 0px;
+	background-size: cover;
+}
+
+#pu8443-6,#pu8463-6,#pu8468-6
+{
+	width: 0.01px;
+	margin-top: 15px;
+}
+
+#u8468-6
+{
+	z-index: 31;
+	width: 300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u8469
+{
+	z-index: 37;
+	width: 20px;
+	min-height: 22px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	position: relative;
+	margin-right: -10000px;
+	left: 229px;
+}
+
+#buttonu8472
+{
+	z-index: 38;
+	width: 1044px;
+	border-color: #F6F6F6;
+	background-color: transparent;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	padding-bottom: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 79px;
+}
+
+#buttonu8437.ButtonSelected,#buttonu8462.ButtonSelected,#buttonu8467.ButtonSelected,#buttonu8472.ButtonSelected
+{
+	margin: 56px -10000px 0px 0px;
+}
+
+#u8476
+{
+	z-index: 39;
+	width: 249px;
+	height: 249px;
+	border-color: #000000;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	margin-left: 744px;
+	position: relative;
+	background: #F6F6F6 url("../images/team-c-u8438-fr.jpg") no-repeat left top;
+	background-size: cover;
+}
+
+#buttonu8472.ButtonSelected #u8476
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	margin: 0px 0px 0px 744px;
+	background-size: cover;
+}
+
+#pu8473-6
+{
+	width: 0.01px;
+	margin-left: 744px;
+	margin-top: 15px;
+}
+
+#u8473-6
+{
+	z-index: 40;
+	width: 300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#buttonu8437.ButtonSelected #u8443-6,#buttonu8462.ButtonSelected #u8463-6,#buttonu8467.ButtonSelected #u8468-6,#buttonu8472.ButtonSelected #u8473-6
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u8443-2,#u8463-2,#u8468-2,#u8473-2
+{
+	font-size: 18px;
+	text-align: left;
+	line-height: 22px;
+	padding-bottom: 10px;
+}
+
+#u8443-4,#u8463-4,#u8468-4,#u8473-4
+{
+	text-align: left;
+}
+
+#u8474
+{
+	z-index: 46;
+	width: 20px;
+	min-height: 22px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
+	position: relative;
+	margin-right: -10000px;
+	left: 229px;
+}
+
+#u8488-5
+{
+	z-index: 47;
+	width: 916px;
+	min-height: 38px;
+	background-color: transparent;
+	margin-top: 81px;
+	position: relative;
+}
+
+#buttonu8472.ButtonSelected #u8488-5
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 38px;
+	margin: 81px 0px 0px;
+}
+
+.js #buttonu8437.ose_pre_init,.js #buttonu8462.ose_pre_init,.js #buttonu8467.ose_pre_init,.js #buttonu8472.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u8486-5
+{
+	z-index: 52;
+	width: 916px;
+	min-height: 38px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 79px;
+}
+
+#u8488-2,#u8486-2
+{
+	line-height: 36px;
+	padding-bottom: 20px;
+	color: #282828;
+}
+
+#u8448-5,#u8488-3,#u8486-3
+{
+	text-align: left;
+	color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
