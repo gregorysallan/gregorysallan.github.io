@@ -1,7 +1,7 @@
 .version.untitled_2 /* version checker */
 {
-	color: #0000FE;
-	background-color: #651E7A;
+	color: #0000EF;
+	background-color: #6FA8EB;
 }
 
 .html
@@ -88,6 +88,23 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+}
+
+#u8490-4
+{
+	z-index: 67;
+	width: 49px;
+	min-height: 24px;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 600;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 824px;
 }
 
 #u8485-4
