@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424762331033" iceMarkupVersion="2">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424763771571" iceMarkupVersion="2">
   <folder name="phone">
     <folder name="css">
       <file name="contact.css" crc="4185654874" ref="phone>contact"/>
@@ -11,7 +11,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4068836695"/>
-    <file name="index.css" crc="110852684" ref="index"/>
+    <file name="index.css" crc="4129873989" ref="index"/>
     <file name="iefonts_index.css" crc="3947650832" ref="index"/>
     <file name="our-team.css" crc="4017072363" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="4181815332" ref="our-team"/>
@@ -50,7 +50,8 @@
     <file name="pasted image 684x644.jpg" crc="3853665651" ref="index"/>
     <file name="screw dimensions.jpg" crc="3761910725" ref="our-team"/>
     <file name="team-c-u8438-fr.jpg" crc="3794368842" ref="our-team"/>
+    <file name="pasted image 450x86.jpg" crc="3794532105" ref="index"/>
   </folder>
-  <file name="index.html" crc="4269295800" mt="1424762316687" redirect="true"/>
+  <file name="index.html" crc="4127908925" mt="1424763680220" redirect="true"/>
   <file name="our-team.html" crc="4153294387" mt="1424762316687" redirect="true"/>
 </manifest>
