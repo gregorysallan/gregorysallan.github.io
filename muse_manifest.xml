@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424761320454" iceMarkupVersion="2">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424761891311" iceMarkupVersion="2">
   <folder name="phone">
     <folder name="css">
       <file name="contact.css" crc="4185654874" ref="phone>contact"/>
@@ -11,7 +11,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4068836695"/>
-    <file name="index.css" crc="3920496431" ref="index"/>
+    <file name="index.css" crc="110852684" ref="index"/>
     <file name="iefonts_index.css" crc="3947650832" ref="index"/>
     <file name="our-team.css" crc="4017072363" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="4181815332" ref="our-team"/>
@@ -20,7 +20,7 @@
     <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:phone>index:phone>contact:our-team"/>
     <file name="museutils.js" crc="3777594392" ref="index:phone>index:phone>contact:our-team"/>
     <file name="pie.js" crc="3827607177" ref="phone>index:phone>contact:index:our-team"/>
-    <file name="jquery.scrolleffects.js" crc="117544926" ref="index:phone>index:phone>contact:our-team"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="phone>index:phone>contact:our-team"/>
     <file name="jquery.musemenu.js" crc="415733523" ref="phone>index:phone>contact"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index:phone>index:phone>contact:our-team"/>
     <file name="jquery.watch.js" crc="4144919381" ref="index:phone>index:phone>contact:our-team"/>
@@ -51,6 +51,6 @@
     <file name="screw dimensions.jpg" crc="3761910725" ref="our-team"/>
     <file name="team-c-u8438-fr.jpg" crc="3794368842" ref="our-team"/>
   </folder>
-  <file name="index.html" crc="4162579130" mt="1424751949539" redirect="true"/>
+  <file name="index.html" crc="4269295800" mt="1424761878945" redirect="true"/>
   <file name="our-team.html" crc="4153294387" mt="1424722941743" redirect="true"/>
 </manifest>
