@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424761891311" iceMarkupVersion="2">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1424762331033" iceMarkupVersion="2">
   <folder name="phone">
     <folder name="css">
       <file name="contact.css" crc="4185654874" ref="phone>contact"/>
@@ -51,6 +51,6 @@
     <file name="screw dimensions.jpg" crc="3761910725" ref="our-team"/>
     <file name="team-c-u8438-fr.jpg" crc="3794368842" ref="our-team"/>
   </folder>
-  <file name="index.html" crc="4269295800" mt="1424761878945" redirect="true"/>
-  <file name="our-team.html" crc="4153294387" mt="1424722941743" redirect="true"/>
+  <file name="index.html" crc="4269295800" mt="1424762316687" redirect="true"/>
+  <file name="our-team.html" crc="4153294387" mt="1424762316687" redirect="true"/>
 </manifest>
