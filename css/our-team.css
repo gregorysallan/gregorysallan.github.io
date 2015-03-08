@@ -1,7 +1,7 @@
 .version.our_team /* version checker */
 {
-	color: #0000EF;
-	background-color: #6FA8EB;
+	color: #0000E5;
+	background-color: #E7E1FA;
 }
 
 .html
@@ -13,12 +13,12 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 599.4656250000003px;
+	min-height: 599.8906250000001px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding-bottom: 1px;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -31,7 +31,7 @@
 
 #u8446
 {
-	z-index: 11;
+	z-index: 2;
 	height: 233px;
 	border-width: 1px;
 	border-style: solid;
@@ -42,14 +42,14 @@
 
 #u8446-bw
 {
-	z-index: 11;
+	z-index: 2;
 	margin-bottom: -1px;
 	height: 235px;
 }
 
 #u8447
 {
-	z-index: 12;
+	z-index: 3;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -83,7 +83,7 @@
 
 #u8480
 {
-	z-index: 57;
+	z-index: 51;
 	width: 116px;
 	background-color: transparent;
 	position: relative;
@@ -92,7 +92,7 @@
 
 #u8490-4
 {
-	z-index: 67;
+	z-index: 61;
 	width: 49px;
 	min-height: 24px;
 	background-color: transparent;
@@ -109,7 +109,7 @@
 
 #u8485-4
 {
-	z-index: 63;
+	z-index: 57;
 	width: 102px;
 	min-height: 24px;
 	background-color: transparent;
@@ -126,7 +126,7 @@
 
 #u8483-4
 {
-	z-index: 59;
+	z-index: 53;
 	width: 102px;
 	min-height: 24px;
 	background-color: transparent;
@@ -143,7 +143,7 @@
 
 #u8448-7
 {
-	z-index: 13;
+	z-index: 4;
 	width: 916px;
 	min-height: 124px;
 	background-color: transparent;
@@ -166,269 +166,135 @@
 
 #u8447-bw
 {
-	z-index: 12;
+	z-index: 3;
 	margin-bottom: -1px;
 	height: 235px;
 }
 
-#pbuttonu8437
+#pu8486-5
 {
 	width: 0.01px;
-	margin-left: -57px;
+	margin-left: -72px;
 	margin-top: 54px;
 }
 
-#buttonu8437
+#u8486-5
 {
-	z-index: 2;
-	width: 300px;
-	border-color: #F6F6F6;
+	z-index: 11;
+	width: 916px;
+	min-height: 38px;
 	background-color: transparent;
-	opacity: 0.5;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);
-	padding-bottom: 52px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 56px;
+	left: 94px;
 }
 
-#u8438
+#u8486-2
 {
-	z-index: 3;
+	line-height: 36px;
+	padding-bottom: 20px;
+	color: #282828;
+}
+
+#u8448-5,#u8486-3
+{
+	text-align: left;
+	color: #FFFFFF;
+}
+
+#u8662
+{
+	z-index: 43;
 	width: 249px;
-	height: 249px;
-	border-color: #000000;
-	-moz-border-radius: 3px;
-	-webkit-border-radius: 3px;
-	-khtml-border-radius: 3px;
-	border-radius: 3px;
-	position: relative;
-	background: #F6F6F6 url("../images/team-c-u8438-fr.jpg") no-repeat left top;
-	background-size: cover;
-}
-
-#u8443-6
-{
-	z-index: 4;
-	width: 300px;
 	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u8444
-{
-	z-index: 10;
-	width: 20px;
-	min-height: 22px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
-	position: relative;
-	margin-right: -10000px;
-	left: 229px;
-}
-
-#buttonu8462
-{
-	z-index: 20;
-	width: 300px;
-	border-color: #F6F6F6;
-	background-color: transparent;
-	opacity: 0.5;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);
-	padding-bottom: 52px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 56px;
-	left: 271px;
+	left: 547px;
 }
 
-#u8466
+#u8668
+{
+	z-index: 45;
+	width: 249px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+}
+
+#u8673
+{
+	z-index: 47;
+	width: 249px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 830px;
+}
+
+#u8678
+{
+	z-index: 49;
+	width: 249px;
+	background-color: transparent;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	-khtml-border-radius: 1px;
+	border-radius: 1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 56px;
+	left: 275px;
+}
+
+#u8678 .clip_frame
+{
+	-webkit-border-radius: 1px 1px 1px 1px;
+}
+
+#pu8613-5
+{
+	width: 0.01px;
+	margin-left: -72px;
+	margin-top: 8px;
+}
+
+#u8613-5
+{
+	z-index: 16;
+	width: 300px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: 830px;
+}
+
+#u8618-5
 {
 	z-index: 21;
-	width: 249px;
-	height: 249px;
-	border-color: #000000;
-	-moz-border-radius: 3px;
-	-webkit-border-radius: 3px;
-	-khtml-border-radius: 3px;
-	border-radius: 3px;
-	position: relative;
-	background: #F6F6F6 url("../images/team-c-u8438-fr.jpg") no-repeat left top;
-	background-size: cover;
-}
-
-#u8463-6
-{
-	z-index: 22;
 	width: 300px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-}
-
-#u8464
-{
-	z-index: 28;
-	width: 20px;
-	min-height: 22px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
-	position: relative;
-	margin-right: -10000px;
-	left: 229px;
-}
-
-#buttonu8467
-{
-	z-index: 29;
-	width: 300px;
-	border-color: #F6F6F6;
-	background-color: transparent;
-	opacity: 0.5;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);
-	padding-bottom: 52px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 56px;
+	margin-top: 7px;
 	left: 550px;
 }
 
-#u8471
+#u8622-5
 {
-	z-index: 30;
-	width: 249px;
-	height: 249px;
-	border-color: #000000;
-	-moz-border-radius: 3px;
-	-webkit-border-radius: 3px;
-	-khtml-border-radius: 3px;
-	border-radius: 3px;
-	position: relative;
-	background: #F6F6F6 url("../images/team-c-u8438-fr.jpg") no-repeat left top;
-	background-size: cover;
-}
-
-#buttonu8437.ButtonSelected #u8438,#buttonu8462.ButtonSelected #u8466,#buttonu8467.ButtonSelected #u8471
-{
-	background-repeat: no-repeat;
-	background-position: left top;
-	margin: 0px;
-	background-size: cover;
-}
-
-#pu8443-6,#pu8463-6,#pu8468-6
-{
-	width: 0.01px;
-	margin-top: 15px;
-}
-
-#u8468-6
-{
-	z-index: 31;
+	z-index: 26;
 	width: 300px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 7px;
+	left: 275px;
 }
 
-#u8469
-{
-	z-index: 37;
-	width: 20px;
-	min-height: 22px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
-	position: relative;
-	margin-right: -10000px;
-	left: 229px;
-}
-
-#buttonu8472
-{
-	z-index: 38;
-	width: 1044px;
-	border-color: #F6F6F6;
-	background-color: transparent;
-	opacity: 0.5;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
-	filter: alpha(opacity=50);
-	padding-bottom: 0px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 56px;
-	left: 79px;
-}
-
-#buttonu8437.ButtonSelected,#buttonu8462.ButtonSelected,#buttonu8467.ButtonSelected,#buttonu8472.ButtonSelected
-{
-	margin: 56px -10000px 0px 0px;
-}
-
-#u8476
-{
-	z-index: 39;
-	width: 249px;
-	height: 249px;
-	border-color: #000000;
-	-moz-border-radius: 3px;
-	-webkit-border-radius: 3px;
-	-khtml-border-radius: 3px;
-	border-radius: 3px;
-	margin-left: 744px;
-	position: relative;
-	background: #F6F6F6 url("../images/team-c-u8438-fr.jpg") no-repeat left top;
-	background-size: cover;
-}
-
-#buttonu8472.ButtonSelected #u8476
-{
-	background-repeat: no-repeat;
-	background-position: left top;
-	margin: 0px 0px 0px 744px;
-	background-size: cover;
-}
-
-#pu8473-6
-{
-	width: 0.01px;
-	margin-left: 744px;
-	margin-top: 15px;
-}
-
-#u8473-6
-{
-	z-index: 40;
-	width: 300px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#buttonu8437.ButtonSelected #u8443-6,#buttonu8462.ButtonSelected #u8463-6,#buttonu8467.ButtonSelected #u8468-6,#buttonu8472.ButtonSelected #u8473-6
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u8443-2,#u8463-2,#u8468-2,#u8473-2
+#u8613-2,#u8618-2,#u8622-2
 {
 	font-size: 18px;
 	text-align: left;
@@ -436,74 +302,67 @@
 	padding-bottom: 10px;
 }
 
-#u8443-4,#u8463-4,#u8468-4,#u8473-4
+#u8613-3,#u8618-3,#u8622-3
 {
 	text-align: left;
 }
 
-#u8474
+#u8626-4
 {
-	z-index: 46;
-	width: 20px;
-	min-height: 22px;
-	border-style: none;
-	border-color: transparent;
+	z-index: 31;
+	width: 300px;
 	background-color: transparent;
-	text-align: center;
-	font-size: 18px;
 	line-height: 22px;
 	position: relative;
 	margin-right: -10000px;
-	left: 229px;
+	margin-top: 7px;
 }
 
-#u8488-5
+#u8626-2
 {
-	z-index: 47;
-	width: 916px;
-	min-height: 38px;
-	background-color: transparent;
-	margin-top: 81px;
-	position: relative;
+	font-size: 18px;
+	text-align: left;
+	padding-bottom: 10px;
 }
 
-#buttonu8472.ButtonSelected #u8488-5
+#u8631
 {
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 38px;
-	margin: 81px 0px 0px;
-}
-
-.js #buttonu8437.ose_pre_init,.js #buttonu8462.ose_pre_init,.js #buttonu8467.ose_pre_init,.js #buttonu8472.ose_pre_init
-{
-	opacity: 0;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-	filter: alpha(opacity=0);
-}
-
-#u8486-5
-{
-	z-index: 52;
-	width: 916px;
-	min-height: 38px;
+	z-index: 35;
+	width: 28px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 79px;
+	left: 222px;
 }
 
-#u8488-2,#u8486-2
+#u8638
 {
-	line-height: 36px;
-	padding-bottom: 20px;
-	color: #282828;
+	z-index: 37;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 496px;
 }
 
-#u8448-5,#u8488-3,#u8486-3
+#u8641
 {
-	text-align: left;
-	color: #FFFFFF;
+	z-index: 39;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 771px;
+}
+
+#u8644
+{
+	z-index: 41;
+	width: 28px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 1051px;
 }
 
 body

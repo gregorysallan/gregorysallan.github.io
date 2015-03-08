@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000F9;
-	background-color: #7C065A;
+	color: #0000F2;
+	background-color: #E33B72;
 }
 
 @-ms-viewport
@@ -385,8 +385,8 @@
 	background-color: transparent;
 	font-size: 13px;
 	color: #DEDEDE;
-	line-height: 16px;
 	letter-spacing: 1px;
+	line-height: 16px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
@@ -447,8 +447,8 @@
 	background-color: transparent;
 	font-size: 13px;
 	color: #DEDEDE;
-	line-height: 16px;
 	letter-spacing: 1px;
+	line-height: 16px;
 	text-align: center;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
