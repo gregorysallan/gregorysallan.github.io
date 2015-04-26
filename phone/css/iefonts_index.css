@@ -23,7 +23,12 @@
 	font-family: source-sans-pro-n4, sans-serif;
 }
 
-#u7219.MuseMenuActive #u7220-4 p,#u7235:hover #u7238-4 p
+#u7219.MuseMenuActive #u7220-4 p,#u8658:hover #u8660-4 p
+{
+	font-family: source-sans-pro-n4, sans-serif;
+}
+
+#u8658.MuseMenuActive #u8660-4 p,#u7235:hover #u7238-4 p
 {
 	font-family: source-sans-pro-n4, sans-serif;
 }
