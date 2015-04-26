@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1430066634051" iceMarkupVersion="2">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1430067304710" iceMarkupVersion="2">
   <folder name="phone">
     <folder name="css">
       <file name="contact.css" crc="394000431" ref="phone>contact"/>
@@ -11,7 +11,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4068836695"/>
-    <file name="index.css" crc="3927978555" ref="index"/>
+    <file name="index.css" crc="237340425" ref="index"/>
     <file name="iefonts_index.css" crc="188066030" ref="index"/>
     <file name="our-team.css" crc="4177385120" ref="our-team"/>
   </folder>
@@ -54,6 +54,6 @@
     <file name="shalaleh.jpg" crc="390785291" ref="our-team"/>
     <file name="andrew.jpg" crc="4188538546" ref="our-team"/>
   </folder>
-  <file name="index.html" crc="4287794714" mt="1430066049893" redirect="true"/>
+  <file name="index.html" crc="281695796" mt="1430067297359" redirect="true"/>
   <file name="our-team.html" crc="238027289" mt="1430066618264" redirect="true"/>
 </manifest>
