@@ -127,7 +127,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ScrewCutter.com/images/team-c-u8438-fr.jpg</loc>
+    <loc>http://ScrewCutter.com/images/greg.jpg</loc>
+    <lastmod>2015-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ScrewCutter.com/images/vivian.jpg</loc>
+    <lastmod>2015-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ScrewCutter.com/images/shalaleh.jpg</loc>
+    <lastmod>2015-04-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ScrewCutter.com/images/andrew.jpg</loc>
     <lastmod>2015-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -141,7 +159,7 @@
   </url>
   <url>
     <loc>http://ScrewCutter.com/our-team.html</loc>
-    <lastmod>2015-02-23</lastmod>
+    <lastmod>2015-04-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
