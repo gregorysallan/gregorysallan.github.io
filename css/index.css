@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F6;
-	background-color: #28E045;
+	color: #0000E0;
+	background-color: #97CE51;
 }
 
 .html
@@ -242,7 +242,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 30px;
-	left: 1243px;
+	left: 1142px;
 }
 
 #u8484-4
@@ -251,6 +251,10 @@
 	width: 102px;
 	min-height: 24px;
 	background-color: transparent;
+	-moz-border-radius: 10px 0px 10px 0px ;
+	-webkit-border-radius: 10px 0px 10px 0px ;
+	-khtml-border-radius: 10px 0px 10px 0px ;
+	border-radius: 10px 0px 10px 0px ;
 	line-height: 22px;
 	font-size: 18px;
 	color: #FFFFFF;
@@ -259,7 +263,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 30px;
-	left: 1137px;
+	left: 1036px;
 }
 
 #u8489-4
@@ -276,7 +280,28 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 30px;
-	left: 1074px;
+	left: 973px;
+}
+
+#u8601-4
+{
+	z-index: 63;
+	width: 95px;
+	min-height: 22px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #F6F6F6;
+	background-color: transparent;
+	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
+	text-align: center;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 29px;
+	left: 1252px;
 }
 
 #pu7993

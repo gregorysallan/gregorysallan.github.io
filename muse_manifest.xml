@@ -1,29 +1,30 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1425823664748" iceMarkupVersion="2">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1430065699971" iceMarkupVersion="2">
   <folder name="phone">
     <folder name="css">
-      <file name="contact.css" crc="4074978162" ref="phone>contact"/>
+      <file name="contact.css" crc="394000431" ref="phone>contact"/>
       <file name="iefonts_contact.css" crc="125976052" ref="phone>contact"/>
       <file name="index.css" crc="4080277288" ref="phone>index"/>
       <file name="iefonts_index.css" crc="485834909" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="2389347" mt="1424202249416" redirect="true"/>
-    <file name="contact.html" crc="3914834875" mt="1425821789559" redirect="true"/>
+    <file name="contact.html" crc="374072564" mt="1424202150498" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4068836695"/>
-    <file name="index.css" crc="4129873989" ref="index"/>
-    <file name="iefonts_index.css" crc="3947650832" ref="index"/>
-    <file name="our-team.css" crc="3857179130" ref="our-team"/>
+    <file name="index.css" crc="3768045137" ref="index"/>
+    <file name="iefonts_index.css" crc="188066030" ref="index"/>
+    <file name="our-team.css" crc="4017072363" ref="our-team"/>
+    <file name="iefonts_our-team.css" crc="4181815332" ref="our-team"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:phone>index:phone>contact:our-team"/>
     <file name="museutils.js" crc="3777594392" ref="index:phone>index:phone>contact:our-team"/>
     <file name="pie.js" crc="3827607177" ref="phone>index:phone>contact:index:our-team"/>
-    <file name="jquery.scrolleffects.js" crc="117544926" ref="phone>index:phone>contact"/>
+    <file name="jquery.scrolleffects.js" crc="117544926" ref="phone>index:phone>contact:our-team"/>
     <file name="jquery.musemenu.js" crc="415733523" ref="phone>index:phone>contact"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4259541792" ref="index:phone>index:phone>contact:our-team"/>
     <file name="jquery.watch.js" crc="4144919381" ref="index:phone>index:phone>contact:our-team"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact:index:our-team"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact:our-team"/>
     <file name="webpro.js" crc="474087315" ref="phone>index:phone>contact"/>
     <file name="musewpdisclosure.js" crc="3952359668" ref="phone>index:phone>contact"/>
     <file name="museredirect.js" crc="17485671" ref="index"/>
@@ -49,12 +50,8 @@
     <file name="pasted image 684x644.jpg" crc="3853665651" ref="index"/>
     <file name="screw dimensions.jpg" crc="3761910725" ref="our-team"/>
     <file name="pasted image 450x86.jpg" crc="3794532105" ref="index"/>
-    <file name="andrew.jpg" crc="4188538546" ref="our-team"/>
-    <file name="greg.jpg" crc="3784147325" ref="our-team"/>
-    <file name="shalaleh.jpg" crc="390785291" ref="our-team"/>
-    <file name="vivian.jpg" crc="255351136" ref="our-team"/>
-    <file name="pasted image 300x300.png" crc="4245676928" ref="our-team"/>
+    <file name="team-c-u8438-fr.jpg" crc="3794368842" ref="our-team"/>
   </folder>
-  <file name="index.html" crc="228384353" mt="1425821792070" redirect="true"/>
-  <file name="our-team.html" crc="444366932" mt="1425823641777" redirect="true"/>
+  <file name="index.html" crc="257051986" mt="1430065677268" redirect="true"/>
+  <file name="our-team.html" crc="4155608369" mt="1424762316687" redirect="true"/>
 </manifest>
