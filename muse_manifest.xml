@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1430505098805" iceMarkupVersion="2">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1430505175300" iceMarkupVersion="2">
   <folder name="phone">
     <folder name="css">
       <file name="contact.css" crc="394000431" ref="phone>contact"/>
@@ -13,7 +13,7 @@
     <file name="site_global.css" crc="335204672"/>
     <file name="index.css" crc="237340425" ref="index"/>
     <file name="iefonts_index.css" crc="188066030" ref="index"/>
-    <file name="our-team.css" crc="193943765" ref="our-team"/>
+    <file name="our-team.css" crc="3955704923" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="3806887650" ref="our-team"/>
     <file name="contact-us.css" crc="3807940326" ref="contact-us"/>
     <file name="iefonts_contact-us.css" crc="4010740147" ref="contact-us"/>
@@ -58,6 +58,6 @@
     <file name="andrew.jpg" crc="4188538546" ref="our-team"/>
   </folder>
   <file name="index.html" crc="4252134462" mt="1430504273119" redirect="true"/>
-  <file name="our-team.html" crc="4212752726" mt="1430504611081" redirect="true"/>
+  <file name="our-team.html" crc="4212752726" mt="1430505168476" redirect="true"/>
   <file name="contact-us.html" crc="4117670225" mt="1430505087038" redirect="true"/>
 </manifest>
