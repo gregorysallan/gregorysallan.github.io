@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EA;
-	background-color: #8812B8;
+	color: #0000F1;
+	background-color: #896EB9;
 }
 
 @-ms-viewport
@@ -76,8 +76,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	color: #999999;
 	line-height: 14px;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -171,9 +171,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -217,9 +217,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -270,9 +270,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -332,9 +332,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -345,9 +345,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	line-height: 1.2;
 	text-align: center;
 	font-size: 16px;
-	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
