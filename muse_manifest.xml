@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1430504489031" iceMarkupVersion="2">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1430504627203" iceMarkupVersion="2">
   <folder name="phone">
     <folder name="css">
       <file name="contact.css" crc="394000431" ref="phone>contact"/>
@@ -32,7 +32,7 @@
     <file name="museredirect.js" crc="17485671" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="a-master-favicon.ico" crc="4162851638" ref="index:contact-us"/>
+    <file name="a-master-favicon.ico" crc="4162851638" ref="index:contact-us:our-team"/>
     <file name="web_logo.png" crc="110686454" ref="index:our-team:contact-us"/>
     <file name="new.png" crc="3846075895" ref="index"/>
     <file name="screwcutterresults -283-29.jpg" crc="3835692244" ref="index:phone>index:contact-us"/>
@@ -58,6 +58,6 @@
     <file name="andrew.jpg" crc="4188538546" ref="our-team"/>
   </folder>
   <file name="index.html" crc="4252134462" mt="1430504273119" redirect="true"/>
-  <file name="our-team.html" crc="3793333099" mt="1430504302177" redirect="true"/>
+  <file name="our-team.html" crc="4212752726" mt="1430504611081" redirect="true"/>
   <file name="contact-us.html" crc="4274296532" mt="1430504476494" redirect="true"/>
 </manifest>
