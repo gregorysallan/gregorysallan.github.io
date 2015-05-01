@@ -1,7 +1,7 @@
 .version.contact_us /* version checker */
 {
-	color: #000011;
-	background-color: #9848A0;
+	color: #0000E2;
+	background-color: #F88EE6;
 }
 
 .html
@@ -24,7 +24,7 @@
 
 #page_position_content
 {
-	padding-bottom: 139px;
+	padding-bottom: 140px;
 }
 
 #pu8730
@@ -218,8 +218,8 @@
 #ppu8804
 {
 	width: 0.01px;
-	margin-left: 22px;
-	margin-top: 12px;
+	margin-left: 32px;
+	margin-top: 11px;
 }
 
 #pu8804
@@ -229,13 +229,13 @@
 	position: relative;
 	margin-bottom: -1px;
 	margin-right: -10000px;
-	margin-left: 187px;
+	margin-left: 194px;
 }
 
 #u8804
 {
 	z-index: 0;
-	width: 534px;
+	width: 507px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -252,7 +252,7 @@
 {
 	width: 0.01px;
 	position: relative;
-	left: 27px;
+	left: 21px;
 	padding-top: 20px;
 	z-index: 2;
 	padding-bottom: 56px;
