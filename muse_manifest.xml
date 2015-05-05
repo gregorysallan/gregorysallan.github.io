@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1430840080567" iceMarkupVersion="2">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1430860413042" iceMarkupVersion="2">
   <folder name="phone">
     <folder name="css">
       <file name="contact.css" crc="120783712" ref="phone>contact"/>
@@ -10,9 +10,9 @@
     <file name="contact.html" crc="254303935" mt="1424202150498" redirect="true"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="355186269"/>
-    <file name="index.css" crc="368206505" ref="index"/>
-    <file name="iefonts_index.css" crc="188066030" ref="index"/>
+    <file name="site_global.css" crc="252926863"/>
+    <file name="index.css" crc="536305677" ref="index"/>
+    <file name="iefonts_index.css" crc="204858556" ref="index"/>
     <file name="our-team.css" crc="123945704" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="3806887650" ref="our-team"/>
     <file name="contact-us.css" crc="159713617" ref="contact-us"/>
@@ -26,7 +26,7 @@
     <file name="jquery.musemenu.js" crc="397543671" ref="phone>index:phone>contact"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="index:phone>index:phone>contact:our-team:contact-us"/>
     <file name="jquery.watch.js" crc="56779320" ref="index:phone>index:phone>contact:our-team:contact-us"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact:index:our-team:contact-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact:our-team:contact-us"/>
     <file name="webpro.js" crc="220831917" ref="phone>index:phone>contact"/>
     <file name="musewpdisclosure.js" crc="4110183178" ref="phone>index:phone>contact"/>
     <file name="museredirect.js" crc="4117159434" ref="index"/>
@@ -34,7 +34,6 @@
   <folder name="images">
     <file name="a-master-favicon.ico" crc="4162851638" ref="index"/>
     <file name="web_logo.png" crc="110686454" ref="index:our-team:contact-us"/>
-    <file name="new.png" crc="3846075895" ref="index"/>
     <file name="screwcutterresults -283-29.jpg" crc="3835692244" ref="index:phone>index:contact-us"/>
     <file name="favicon.ico" crc="425072659" ref="phone>index"/>
     <file name="blue.png" crc="515630717" ref="phone>index:phone>contact"/>
@@ -57,7 +56,7 @@
     <file name="white-up-arrow.png" crc="3931072132" ref="phone>contact"/>
     <file name="vch_neg.png" crc="434877218" ref="index"/>
   </folder>
-  <file name="index.html" crc="194146155" mt="1430840035516" redirect="true"/>
+  <file name="index.html" crc="3791003755" mt="1430860403073" redirect="true"/>
   <file name="our-team.html" crc="70941991" mt="1430840043748" redirect="true"/>
   <file name="contact-us.html" crc="3884741411" mt="1430840052186" redirect="true"/>
 </manifest>
