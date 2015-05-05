@@ -1,4 +1,4 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1430860413042" iceMarkupVersion="2">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1430860476438" iceMarkupVersion="2">
   <folder name="phone">
     <folder name="css">
       <file name="contact.css" crc="120783712" ref="phone>contact"/>
