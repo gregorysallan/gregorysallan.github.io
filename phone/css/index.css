@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F1;
-	background-color: #896EB9;
+	color: #00000A;
+	background-color: #F209A9;
 }
 
 @-ms-viewport
@@ -87,6 +87,7 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	min-height: 50px;
+	width: 178px;
 	margin: 0px;
 }
 
@@ -97,11 +98,11 @@
 	border-style: solid;
 	border-color: #F6F6F6;
 	background-color: #FFFFFF;
-	background-color: rgba(255, 255, 255, 0.95);
+	background-color: rgba(255,255,255,0.95);
 	padding-bottom: 3px;
 	position: relative;
 	border-width: 0px 0px 1px 1px;
-	-pie-background: rgba(255, 255, 255, 0.95);
+	-pie-background: rgba(255,255,255,0.95);
 }
 
 #menuu7203
@@ -156,6 +157,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 187px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -164,6 +166,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 187px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -171,9 +174,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	font-size: 16px;
 	line-height: 1.2;
 	text-align: center;
-	font-size: 16px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -210,6 +213,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
+	width: 187px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -217,9 +221,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	font-size: 16px;
 	line-height: 1.2;
 	text-align: center;
-	font-size: 16px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -263,6 +267,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
+	width: 187px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -270,9 +275,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	font-size: 16px;
 	line-height: 1.2;
 	text-align: center;
-	font-size: 16px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -317,6 +322,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
+	width: 187px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -325,6 +331,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
+	width: 187px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -332,9 +339,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	font-size: 16px;
 	line-height: 1.2;
 	text-align: center;
-	font-size: 16px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -345,9 +352,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	font-size: 16px;
 	line-height: 1.2;
 	text-align: center;
-	font-size: 16px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -486,8 +493,8 @@
 	width: 275px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #696F6F;
 	text-align: center;
+	color: #696F6F;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 46px;

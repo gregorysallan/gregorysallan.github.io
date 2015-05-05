@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #000017;
-	background-color: #7BF82F;
+	color: #000007;
+	background-color: #330360;
 }
 
 @-ms-viewport
@@ -76,8 +76,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	color: #999999;
 	line-height: 14px;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -87,6 +87,7 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	min-height: 50px;
+	width: 178px;
 	margin: 0px;
 }
 
@@ -97,11 +98,11 @@
 	border-style: solid;
 	border-color: #F6F6F6;
 	background-color: #FFFFFF;
-	background-color: rgba(255, 255, 255, 0.95);
+	background-color: rgba(255,255,255,0.95);
 	padding-bottom: 9px;
 	position: relative;
 	border-width: 0px 0px 1px 1px;
-	-pie-background: rgba(255, 255, 255, 0.95);
+	-pie-background: rgba(255,255,255,0.95);
 }
 
 #menuu7925
@@ -153,6 +154,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
+	width: 187px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -160,9 +162,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
-	text-align: center;
 	font-size: 16px;
 	line-height: 1.2;
+	text-align: center;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -199,6 +201,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
+	width: 187px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -207,6 +210,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 17px;
+	width: 187px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -214,9 +218,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
-	text-align: center;
 	font-size: 16px;
 	line-height: 1.2;
+	text-align: center;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -271,6 +275,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 187px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -279,6 +284,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
+	width: 187px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -286,9 +292,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
-	text-align: center;
 	font-size: 16px;
 	line-height: 1.2;
+	text-align: center;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -299,9 +305,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
-	text-align: center;
 	font-size: 16px;
 	line-height: 1.2;
+	text-align: center;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -383,11 +389,11 @@
 	width: 239px;
 	min-height: 16px;
 	background-color: transparent;
-	font-size: 13px;
-	color: #DEDEDE;
 	line-height: 16px;
-	letter-spacing: 1px;
 	text-align: center;
+	font-size: 13px;
+	letter-spacing: 1px;
+	color: #DEDEDE;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -415,11 +421,11 @@
 	width: 334px;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	background-color: rgba(255, 255, 255, 0.2);
+	background-color: rgba(255,255,255,0.2);
 	padding-bottom: 12px;
 	position: relative;
 	margin-right: -10000px;
-	-pie-background: rgba(255, 255, 255, 0.2);
+	-pie-background: rgba(255,255,255,0.2);
 }
 
 #u7381-4
@@ -445,11 +451,11 @@
 	width: 263px;
 	min-height: 16px;
 	background-color: transparent;
-	font-size: 13px;
-	color: #DEDEDE;
 	line-height: 16px;
-	letter-spacing: 1px;
 	text-align: center;
+	font-size: 13px;
+	letter-spacing: 1px;
+	color: #DEDEDE;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -515,6 +521,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 123px;
+	width: 314px;
 	margin: 22px 0px 0px 33px;
 }
 
@@ -524,6 +531,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 123px;
+	width: 314px;
 	margin: 22px 0px 0px 33px;
 }
 
@@ -559,12 +567,12 @@
 	z-index: 27;
 	min-height: 245px;
 	margin-top: 18px;
-	height: 245px;
 }
 
 #u7534
 {
 	z-index: 28;
+	min-height: 85px;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	padding: 25px 42px 32px 63px;
@@ -577,14 +585,17 @@
 	height: 33px;
 	margin-left: 121px;
 	position: relative;
-	background: #282828 url("../../images/white-up-arrow-buttonu7535-fr.png") no-repeat center center;
+	background: #282828 url("../../images/white-up-arrow.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu7535.ButtonSelected
 {
+	width: 33px;
+	height: 33px;
+	min-height: 0px;
 	margin: 0px 0px 0px 121px;
-	background: #6CDCE7 url("../../images/white-up-arrow-buttonu7535-fr.png") no-repeat center center;
+	background: #6CDCE7 url("../../images/white-up-arrow.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -593,9 +604,6 @@
 	border-style: none;
 	border-color: #000000;
 	background-color: #46CAD7;
-	-moz-border-radius: 3px;
-	-webkit-border-radius: 3px;
-	-khtml-border-radius: 3px;
 	border-radius: 3px;
 }
 
@@ -605,8 +613,8 @@
 	width: 275px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #696F6F;
 	text-align: center;
+	color: #696F6F;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-top: 18px;
@@ -616,7 +624,7 @@
 #u7534-bw
 {
 	z-index: 28;
-	height: 85px;
+	min-height: 85px;
 }
 
 body

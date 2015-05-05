@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000014;
-	background-color: #392B72;
+	color: #000015;
+	background-color: #F262A9;
 }
 
 .html
@@ -25,6 +25,7 @@
 #page_position_content
 {
 	margin-top: -20px;
+	width: 0.01px;
 }
 
 #ptop3
@@ -217,9 +218,6 @@
 	width: 107px;
 	min-height: 24px;
 	background-color: transparent;
-	-moz-border-radius: 10px;
-	-webkit-border-radius: 10px;
-	-khtml-border-radius: 10px;
 	border-radius: 10px;
 	line-height: 22px;
 	font-size: 18px;
@@ -238,9 +236,6 @@
 	width: 102px;
 	min-height: 24px;
 	background-color: transparent;
-	-moz-border-radius: 10px 0px 10px 0px ;
-	-webkit-border-radius: 10px 0px 10px 0px ;
-	-khtml-border-radius: 10px 0px 10px 0px ;
 	border-radius: 10px 0px 10px 0px ;
 	line-height: 22px;
 	font-size: 18px;
@@ -291,10 +286,10 @@
 	min-height: 24px;
 	border-color: #F6F6F6;
 	background-color: transparent;
-	line-height: 22px;
-	font-size: 18px;
 	color: #FFFFFF;
 	text-align: center;
+	font-size: 18px;
+	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 800;
 	position: relative;
@@ -312,15 +307,14 @@
 #u7993
 {
 	z-index: 10;
+	min-height: 37px;
 	-pie-box-shadow: none;
-	-moz-box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.09);
-	-webkit-box-shadow: 6px 6px 8px -1px rgba(0, 0, 0, 0.09);
-	box-shadow: 6px 6px 8px rgba(0, 0, 0, 0.09);
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.09);
 	border-width: 1px;
 	border-style: solid;
 	border-color: #F6F6F6;
 	background-color: transparent;
-	padding-bottom: 16px;
+	padding-bottom: 18px;
 }
 
 #u7993_align_to_page
@@ -391,8 +385,8 @@
 #u7993-bw
 {
 	z-index: 10;
+	min-height: 37px;
 	margin-bottom: -1px;
-	height: 41px;
 }
 
 #u7976
@@ -426,6 +420,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 49px;
+	width: 916px;
 	margin: 35px 0px 0px 22px;
 }
 
@@ -435,6 +430,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 49px;
+	width: 916px;
 	margin: 35px 0px 0px 22px;
 }
 
@@ -467,6 +463,9 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
+	width: 225px;
+	height: 100px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background-size: contain;
 }
@@ -494,6 +493,9 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
+	width: 225px;
+	height: 100px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background-size: contain;
 }
@@ -505,6 +507,9 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
+	width: 225px;
+	height: 100px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background-size: contain;
 }
@@ -528,6 +533,8 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
+	width: 245px;
+	min-height: 0px;
 	margin: 15px -10000px 0px 0px;
 }
 
@@ -549,6 +556,8 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
+	width: 269px;
+	min-height: 0px;
 	margin: 24px -10000px 0px 0px;
 }
 
@@ -571,7 +580,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 6px;
-	background: transparent url("../images/vch_neg-buttonu8005-fr.png") no-repeat center center;
+	background: transparent url("../images/vch_neg.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -582,6 +591,9 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
+	width: 225px;
+	height: 100px;
+	min-height: 0px;
 	margin: 6px -10000px 0px 0px;
 	background-size: contain;
 }
@@ -593,6 +605,9 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
+	width: 225px;
+	height: 100px;
+	min-height: 0px;
 	margin: 6px -10000px 0px 0px;
 	background-size: contain;
 }
@@ -615,6 +630,8 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
+	width: 141px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -642,6 +659,9 @@
 	opacity: 1;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
 	filter: alpha(opacity=100);
+	width: 188px;
+	height: 89px;
+	min-height: 0px;
 	margin: 18px -10000px 0px 0px;
 	background-size: contain;
 }
@@ -653,6 +673,9 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
+	width: 188px;
+	height: 89px;
+	min-height: 0px;
 	margin: 18px -10000px 0px 0px;
 	background-size: contain;
 }
