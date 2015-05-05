@@ -1,0 +1,62 @@
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1430861177255">
+  <folder name="css">
+    <file name="site_global.css" crc="252926863"/>
+    <file name="contact-us.css" crc="76137583" ref="contact-us"/>
+    <file name="iefonts_contact-us.css" crc="4010740147" ref="contact-us"/>
+    <file name="index.css" crc="536305677" ref="index"/>
+    <file name="iefonts_index.css" crc="204858556" ref="index"/>
+    <file name="our-team.css" crc="4081534537" ref="our-team"/>
+    <file name="iefonts_our-team.css" crc="3806887650" ref="our-team"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>contact:index:our-team:contact-us"/>
+    <file name="museutils.js" crc="521960461" ref="phone>index:phone>contact:index:our-team:contact-us"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>contact:index:our-team:contact-us"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="phone>index:phone>contact"/>
+    <file name="webpro.js" crc="220831917" ref="phone>index:phone>contact"/>
+    <file name="musewpdisclosure.js" crc="4110183178" ref="phone>index:phone>contact"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="phone>index:phone>contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="phone>index:phone>contact:index:our-team:contact-us"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>contact:index:our-team:contact-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact:index:our-team:contact-us"/>
+    <file name="museredirect.js" crc="4117159434" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="425072659" ref="phone>index"/>
+    <file name="blue.png" crc="515630717" ref="phone>index:phone>contact"/>
+    <file name="fa-bars__font_awesome_icons.jpg" crc="4208343723" ref="phone>index:phone>contact"/>
+    <file name="screwcutterresults -283-29.jpg" crc="3835692244" ref="phone>index:index:contact-us"/>
+    <file name="betterhero.jpg" crc="4044938595" ref="phone>contact"/>
+    <file name="telephone66.png" crc="371436268" ref="phone>contact"/>
+    <file name="envelope4.png" crc="506517303" ref="phone>contact"/>
+    <file name="map25.png" crc="66584637" ref="phone>contact"/>
+    <file name="white-up-arrow.png" crc="3931072132" ref="phone>contact"/>
+    <file name="a-master-favicon.ico" crc="4162851638" ref="index"/>
+    <file name="web_logo.png" crc="110686454" ref="index:our-team:contact-us"/>
+    <file name="ubc_neg-buttonu7999-fr.png" crc="403078037" ref="index"/>
+    <file name="ustop_neg-buttonu7980-fr.png" crc="362722321" ref="index"/>
+    <file name="pasted image 1023x292.jpg" crc="66317432" ref="index"/>
+    <file name="pasted image 450x86.jpg" crc="3794532105" ref="index"/>
+    <file name="vch_neg.png" crc="434877218" ref="index"/>
+    <file name="pasted image 684x644.jpg" crc="3853665651" ref="index"/>
+    <file name="nserc_b_neg-buttonu7983-fr.png" crc="27258629" ref="index"/>
+    <file name="screw dimensions.jpg" crc="3761910725" ref="our-team"/>
+    <file name="greg.jpg" crc="3784147325" ref="our-team"/>
+    <file name="vivian.jpg" crc="255351136" ref="our-team"/>
+    <file name="shalaleh.jpg" crc="390785291" ref="our-team"/>
+    <file name="andrew.jpg" crc="4188538546" ref="our-team"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="contact.css" crc="513204525" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="125976052" ref="phone>contact"/>
+      <file name="index.css" crc="372910782" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="136444198" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="508637529" mt="1430067672001" redirect="true"/>
+    <file name="contact.html" crc="4275923583" mt="1424202150498" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="355679725" mt="1430860403073" redirect="true"/>
+  <file name="our-team.html" crc="70941991" mt="1430840043748" redirect="true"/>
+  <file name="contact-us.html" crc="3884741411" mt="1430840052186" redirect="true"/>
+</manifest>

@@ -1,0 +1,515 @@
+.version.index /* version checker */
+{
+	color: #000016;
+	background-color: #3A2ABE;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 509.52499999999986px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-top: 16px;
+	padding-bottom: 14.475000000000136px;
+}
+
+#accordionu7199
+{
+	z-index: 11;
+	width: 188px;
+	border-color: #7F7F7F;
+	background-color: transparent;
+	position: fixed;
+	top: 0px;
+	left: 192px;
+}
+
+#u7200
+{
+	z-index: 12;
+	width: 188px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7201-3
+{
+	z-index: 13;
+	width: 178px;
+	min-height: 50px;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	padding-left: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	color: #999999;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u7201-3.AccordionPanelTabOpen
+{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	min-height: 50px;
+	width: 178px;
+	margin: 0px;
+}
+
+#u7202
+{
+	z-index: 16;
+	width: 187px;
+	border-style: solid;
+	border-color: #F6F6F6;
+	background-color: #FFFFFF;
+	background-color: rgba(255,255,255,0.95);
+	padding-bottom: 3px;
+	position: relative;
+	border-width: 0px 0px 1px 1px;
+	-pie-background: rgba(255,255,255,0.95);
+}
+
+#menuu7203
+{
+	z-index: 17;
+	width: 187px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: -1px;
+}
+
+#u7218
+{
+	width: 187px;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7219
+{
+	width: 187px;
+	border-style: solid;
+	border-color: #F6F6F6;
+	background-color: transparent;
+	padding-bottom: 28px;
+	position: relative;
+	margin-right: -10000px;
+	top: 0px;
+	left: 0px;
+	border-width: 0px 0px 1px;
+}
+
+#u7220-4
+{
+	width: 187px;
+	min-height: 19px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 14px;
+	left: 0px;
+}
+
+#u7219:hover #u7220-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 187px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7219.MuseMenuActive #u7220-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 187px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7219:hover #u7220-4 p
+{
+	color: #46CAD7;
+	visibility: inherit;
+	font-size: 16px;
+	line-height: 1.2;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u8658
+{
+	width: 187px;
+	border-style: solid;
+	border-color: #F6F6F6;
+	background-color: transparent;
+	padding-bottom: 28px;
+	position: relative;
+	margin-right: -10000px;
+	border-width: 0px 0px 1px;
+}
+
+#u8660-4
+{
+	width: 187px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 14px;
+}
+
+#u8658:hover #u8660-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 187px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7219.MuseMenuActive #u7220-4 p,#u8658:hover #u8660-4 p
+{
+	color: #46CAD7;
+	visibility: inherit;
+	font-size: 16px;
+	line-height: 1.2;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u7235
+{
+	width: 187px;
+	border-style: solid;
+	border-color: #F6F6F6;
+	background-color: transparent;
+	padding-bottom: 27px;
+	position: relative;
+	margin-right: -10000px;
+	border-width: 0px 0px 1px;
+}
+
+#u7219.MuseMenuActive,#u8658.MuseMenuActive,#u7235.MuseMenuActive
+{
+	width: 187px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7238-4
+{
+	width: 187px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 13px;
+}
+
+#u8658.MuseMenuActive #u8660-4,#u7235:hover #u7238-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 187px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u8658.MuseMenuActive #u8660-4 p,#u7235:hover #u7238-4 p
+{
+	color: #46CAD7;
+	visibility: inherit;
+	font-size: 16px;
+	line-height: 1.2;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u8657,#u7232,#u7211
+{
+	width: 187px;
+	background-color: transparent;
+	margin-top: 2px;
+	position: relative;
+}
+
+#u7214
+{
+	width: 187px;
+	border-style: solid;
+	border-color: #F6F6F6;
+	background-color: transparent;
+	padding-bottom: 27px;
+	position: relative;
+	margin-right: -10000px;
+	border-width: 0px 0px 1px;
+}
+
+#u7217-4
+{
+	width: 187px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	line-height: 17px;
+	position: relative;
+	margin-right: -10000px;
+	top: 13px;
+}
+
+#u7235.MuseMenuActive #u7238-4,#u7214:hover #u7217-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 187px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7214.MuseMenuActive #u7217-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 187px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u7235.MuseMenuActive #u7238-4 p,#u7214:hover #u7217-4 p
+{
+	color: #46CAD7;
+	visibility: inherit;
+	font-size: 16px;
+	line-height: 1.2;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	padding: 0px;
+}
+
+#u7214.MuseMenuActive #u7217-4 p
+{
+	color: #46CAD7;
+	visibility: inherit;
+	font-size: 16px;
+	line-height: 1.2;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	padding: 0px;
+}
+
+.MenuItem,.AccordionPanelTab /* unifiedNavBar */
+{
+	cursor: pointer;
+}
+
+#pu7302
+{
+	width: 0.01px;
+	margin-left: 15px;
+}
+
+#u7302
+{
+	z-index: 42;
+	width: 114px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u7810
+{
+	z-index: 2;
+	width: 33px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 317px;
+}
+
+#pu7805
+{
+	width: 0.01px;
+	margin-top: 18px;
+}
+
+#u7805
+{
+	z-index: 4;
+	height: 478px;
+	border-color: #000000;
+	background: #FFFFFF url("../../images/screwcutterresults%20-283-29.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u7805-bw
+{
+	z-index: 4;
+	height: 478px;
+}
+
+#u7809
+{
+	z-index: 5;
+	height: 478px;
+	border-color: #000000;
+	background-color: #46CAD7;
+	opacity: 0.62;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=62)";
+	filter: alpha(opacity=62);
+}
+
+#u7809-bw
+{
+	z-index: 5;
+	height: 478px;
+}
+
+#u7145-5
+{
+	z-index: 6;
+	width: 327px;
+	min-height: 138px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 38px;
+	left: 26px;
+}
+
+#u7145-2
+{
+	line-height: 36px;
+	padding-bottom: 20px;
+	color: #FFFFFF;
+}
+
+#u7145-3
+{
+	font-size: 24px;
+	text-align: center;
+	line-height: 29px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u7316
+{
+	z-index: 44;
+	width: 16px;
+	min-height: 17px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 273px;
+	left: 184px;
+}
+
+#u7969
+{
+	z-index: 45;
+	width: 282px;
+	min-height: 161px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 277px;
+	left: 42px;
+}
+
+#u8302-4
+{
+	z-index: 46;
+	width: 275px;
+	min-height: 21px;
+	background-color: transparent;
+	text-align: center;
+	color: #696F6F;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	margin-left: 46px;
+	margin-top: 22px;
+	position: relative;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
