@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000016;
-	background-color: #3A2ABE;
+	color: #000004;
+	background-color: #4A2926;
 }
 
 @-ms-viewport
@@ -76,8 +76,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	color: #999999;
 	line-height: 14px;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -99,7 +99,7 @@
 	border-color: #F6F6F6;
 	background-color: #FFFFFF;
 	background-color: rgba(255,255,255,0.95);
-	padding-bottom: 3px;
+	padding-bottom: 1px;
 	position: relative;
 	border-width: 0px 0px 1px 1px;
 	-pie-background: rgba(255,255,255,0.95);
@@ -175,8 +175,8 @@
 	color: #46CAD7;
 	visibility: inherit;
 	font-size: 16px;
-	line-height: 1.2;
 	text-align: center;
+	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -222,12 +222,20 @@
 	color: #46CAD7;
 	visibility: inherit;
 	font-size: 16px;
-	line-height: 1.2;
 	text-align: center;
+	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
 	padding: 0px;
+}
+
+#u8657,#u7232
+{
+	width: 187px;
+	background-color: transparent;
+	margin-top: 2px;
+	position: relative;
 }
 
 #u7235
@@ -271,90 +279,35 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u7235.MuseMenuActive #u7238-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 187px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u8658.MuseMenuActive #u8660-4 p,#u7235:hover #u7238-4 p
 {
 	color: #46CAD7;
 	visibility: inherit;
 	font-size: 16px;
-	line-height: 1.2;
 	text-align: center;
+	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
 	padding: 0px;
 }
 
-#u8657,#u7232,#u7211
-{
-	width: 187px;
-	background-color: transparent;
-	margin-top: 2px;
-	position: relative;
-}
-
-#u7214
-{
-	width: 187px;
-	border-style: solid;
-	border-color: #F6F6F6;
-	background-color: transparent;
-	padding-bottom: 27px;
-	position: relative;
-	margin-right: -10000px;
-	border-width: 0px 0px 1px;
-}
-
-#u7217-4
-{
-	width: 187px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	top: 13px;
-}
-
-#u7235.MuseMenuActive #u7238-4,#u7214:hover #u7217-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 187px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u7214.MuseMenuActive #u7217-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 187px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u7235.MuseMenuActive #u7238-4 p,#u7214:hover #u7217-4 p
+#u7235.MuseMenuActive #u7238-4 p
 {
 	color: #46CAD7;
 	visibility: inherit;
 	font-size: 16px;
-	line-height: 1.2;
 	text-align: center;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	padding: 0px;
-}
-
-#u7214.MuseMenuActive #u7217-4 p
-{
-	color: #46CAD7;
-	visibility: inherit;
-	font-size: 16px;
 	line-height: 1.2;
-	text-align: center;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -374,7 +327,7 @@
 
 #u7302
 {
-	z-index: 42;
+	z-index: 36;
 	width: 114px;
 	background-color: transparent;
 	position: relative;
@@ -461,7 +414,7 @@
 
 #u7316
 {
-	z-index: 44;
+	z-index: 38;
 	width: 16px;
 	min-height: 17px;
 	border-style: none;
@@ -475,7 +428,7 @@
 
 #u7969
 {
-	z-index: 45;
+	z-index: 39;
 	width: 282px;
 	min-height: 161px;
 	border-style: none;
@@ -489,7 +442,7 @@
 
 #u8302-4
 {
-	z-index: 46;
+	z-index: 40;
 	width: 275px;
 	min-height: 21px;
 	background-color: transparent;

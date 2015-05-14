@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #00001E;
-	background-color: #96E12D;
+	color: #0000EB;
+	background-color: #92973F;
 }
 
 @-ms-viewport
@@ -76,8 +76,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	color: #999999;
 	line-height: 14px;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -163,8 +163,8 @@
 	color: #46CAD7;
 	visibility: inherit;
 	font-size: 16px;
-	line-height: 1.2;
 	text-align: center;
+	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -219,8 +219,8 @@
 	color: #46CAD7;
 	visibility: inherit;
 	font-size: 16px;
-	line-height: 1.2;
 	text-align: center;
+	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -293,8 +293,8 @@
 	color: #46CAD7;
 	visibility: inherit;
 	font-size: 16px;
-	line-height: 1.2;
 	text-align: center;
+	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -306,8 +306,8 @@
 	color: #46CAD7;
 	visibility: inherit;
 	font-size: 16px;
-	line-height: 1.2;
 	text-align: center;
+	line-height: 1.2;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -389,11 +389,11 @@
 	width: 239px;
 	min-height: 16px;
 	background-color: transparent;
+	line-height: 16px;
 	text-align: center;
 	font-size: 13px;
 	letter-spacing: 1px;
 	color: #DEDEDE;
-	line-height: 16px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -434,9 +434,9 @@
 	width: 246px;
 	min-height: 41px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 30px;
 	line-height: 30px;
+	font-size: 30px;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -451,11 +451,11 @@
 	width: 263px;
 	min-height: 16px;
 	background-color: transparent;
+	line-height: 16px;
 	text-align: center;
 	font-size: 13px;
 	letter-spacing: 1px;
 	color: #DEDEDE;
-	line-height: 16px;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	position: relative;

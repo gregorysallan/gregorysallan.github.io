@@ -1,7 +1,7 @@
 .version.our_team /* version checker */
 {
-	color: #0000F3;
-	background-color: #474649;
+	color: #00001B;
+	background-color: #E742E2;
 }
 
 .html
@@ -77,7 +77,7 @@
 #u8447_position_content
 {
 	margin-bottom: -18px;
-	padding-top: 21px;
+	padding-top: 18px;
 }
 
 #pu8480
@@ -94,6 +94,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 3px;
 }
 
 #u8787-4
@@ -102,14 +103,14 @@
 	width: 49px;
 	min-height: 24px;
 	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
+	margin-top: 10px;
 	left: 723px;
 }
 
@@ -120,14 +121,14 @@
 	min-height: 24px;
 	background-color: transparent;
 	border-radius: 10px 0px 10px 0px ;
-	color: #FFFFFF;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
+	margin-top: 10px;
 	left: 786px;
 }
 
@@ -138,15 +139,50 @@
 	min-height: 24px;
 	background-color: transparent;
 	border-radius: 10px;
-	color: #FFFFFF;
-	font-size: 18px;
 	line-height: 22px;
+	font-size: 18px;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
+	margin-top: 10px;
 	left: 893px;
+}
+
+#u8827
+{
+	z-index: 91;
+	width: 110px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	padding-bottom: 7px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: 1004px;
+}
+
+#u8789-4
+{
+	z-index: 92;
+	width: 111px;
+	min-height: 24px;
+	border-color: #F6F6F6;
+	background-color: transparent;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 800;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 8px;
+	left: -1px;
 }
 
 #u8448-7
@@ -177,40 +213,6 @@
 	z-index: 3;
 	min-height: 232.7343750000008px;
 	margin-bottom: -1px;
-}
-
-#u8827
-{
-	z-index: 91;
-	width: 122px;
-	border-width: 2px;
-	border-style: solid;
-	border-color: #FFFFFF;
-	background-color: transparent;
-	padding-bottom: 7px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 18px;
-	left: 1026px;
-}
-
-#u8789-4
-{
-	z-index: 92;
-	width: 111px;
-	min-height: 24px;
-	border-color: #F6F6F6;
-	background-color: transparent;
-	color: #FFFFFF;
-	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
-	font-family: open-sans, sans-serif;
-	font-weight: 800;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 8px;
-	left: 5px;
 }
 
 #pu8486-5
