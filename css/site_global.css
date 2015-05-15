@@ -128,7 +128,7 @@ a.nontext /* used to override default properties of 'a' tag */
 .White-Links a:hover
 {
 	color: #FFFFFF;
-	text-decoration: none;
+	text-decoration: inherit;
 }
 
 .Button-Links a:link
@@ -153,6 +153,12 @@ a.nontext /* used to override default properties of 'a' tag */
 {
 	color: #FFFFFF;
 	text-decoration: none;
+}
+
+.White-Links a,.Grey-Buttons a
+{
+	color: inherit;
+	text-decoration: inherit;
 }
 
 .Grey-Buttons a:link
