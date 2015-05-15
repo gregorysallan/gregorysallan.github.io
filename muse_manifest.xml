@@ -1,11 +1,11 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1431708407701">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1431708832843">
   <folder name="css">
     <file name="site_global.css" crc="391924887"/>
     <file name="contact-us.css" crc="4272478686" ref="contact-us"/>
     <file name="iefonts_contact-us.css" crc="523080292" ref="contact-us"/>
     <file name="index.css" crc="360981659" ref="index"/>
     <file name="iefonts_index.css" crc="3945526496" ref="index"/>
-    <file name="our-team.css" crc="3915000194" ref="our-team"/>
+    <file name="our-team.css" crc="297821238" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="283765211" ref="our-team"/>
   </folder>
   <folder name="scripts">
@@ -31,7 +31,7 @@
     <file name="envelope4.png" crc="506517303" ref="phone>contact"/>
     <file name="map25.png" crc="66584637" ref="phone>contact"/>
     <file name="white-up-arrow.png" crc="3931072132" ref="phone>contact"/>
-    <file name="a-master-favicon.ico" crc="4162851638" ref="index"/>
+    <file name="a-master-favicon.ico" crc="4162851638" ref="index:our-team"/>
     <file name="web_logo.png" crc="110686454" ref="index:our-team:contact-us"/>
     <file name="ubc_neg-buttonu7999-fr.png" crc="403078037" ref="index"/>
     <file name="ustop_neg-buttonu7980-fr.png" crc="362722321" ref="index"/>
@@ -45,6 +45,7 @@
     <file name="vivian.jpg" crc="255351136" ref="our-team"/>
     <file name="shalaleh.jpg" crc="390785291" ref="our-team"/>
     <file name="andrew.jpg" crc="4188538546" ref="our-team"/>
+    <file name="pasted image 25x25.jpg" crc="4062340906" ref="our-team"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -57,6 +58,6 @@
     <file name="contact.html" crc="254303935" mt="1431644289381" redirect="true"/>
   </folder>
   <file name="index.html" crc="401874219" mt="1431708393032" redirect="true"/>
-  <file name="our-team.html" crc="4144657083" mt="1431706026348" redirect="true"/>
+  <file name="our-team.html" crc="4050395727" mt="1431708812975" redirect="true"/>
   <file name="contact-us.html" crc="427783811" mt="1431706050756" redirect="true"/>
 </manifest>
