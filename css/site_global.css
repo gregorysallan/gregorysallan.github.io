@@ -155,12 +155,6 @@ a.nontext /* used to override default properties of 'a' tag */
 	text-decoration: none;
 }
 
-.White-Links a,.Grey-Buttons a
-{
-	color: inherit;
-	text-decoration: inherit;
-}
-
 .Grey-Buttons a:link
 {
 	color: #DEDEDE;
