@@ -1,9 +1,9 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1432748638784">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1432748899797">
   <folder name="css">
     <file name="site_global.css" crc="4058663018"/>
     <file name="contact-us.css" crc="4272478686" ref="contact-us"/>
     <file name="iefonts_contact-us.css" crc="523080292" ref="contact-us"/>
-    <file name="index.css" crc="3774737845" ref="index"/>
+    <file name="index.css" crc="4078624347" ref="index"/>
     <file name="iefonts_index.css" crc="3945526496" ref="index"/>
     <file name="our-team.css" crc="297821238" ref="our-team"/>
     <file name="iefonts_our-team.css" crc="283765211" ref="our-team"/>
@@ -25,7 +25,7 @@
     <file name="favicon.ico" crc="425072659" ref="phone>index"/>
     <file name="blue.png" crc="515630717" ref="phone>index:phone>contact"/>
     <file name="fa-bars__font_awesome_icons.jpg" crc="4208343723" ref="phone>index:phone>contact"/>
-    <file name="screwcutterresults -283-29.jpg" crc="3835692244" ref="phone>index:index:contact-us"/>
+    <file name="screwcutterresults -283-29.jpg" crc="3835692244" ref="phone>index:contact-us"/>
     <file name="betterhero.jpg" crc="4044938595" ref="phone>contact"/>
     <file name="telephone66.png" crc="371436268" ref="phone>contact"/>
     <file name="envelope4.png" crc="506517303" ref="phone>contact"/>
@@ -46,6 +46,7 @@
     <file name="shalaleh.jpg" crc="390785291" ref="our-team"/>
     <file name="andrew.jpg" crc="4188538546" ref="our-team"/>
     <file name="pasted image 25x25.jpg" crc="4062340906" ref="our-team"/>
+    <file name="screwcutterresults.jpg" crc="316383325" ref="index"/>
   </folder>
   <folder name="phone">
     <folder name="css">
@@ -57,7 +58,7 @@
     <file name="index.html" crc="50196580" mt="1431709060934" redirect="true"/>
     <file name="contact.html" crc="254303935" mt="1431644289381" redirect="true"/>
   </folder>
-  <file name="index.html" crc="401874219" mt="1432748563456" redirect="true"/>
+  <file name="index.html" crc="335624584" mt="1432748890599" redirect="true"/>
   <file name="our-team.html" crc="4050395727" mt="1431708812975" redirect="true"/>
   <file name="contact-us.html" crc="427783811" mt="1431706050756" redirect="true"/>
 </manifest>
