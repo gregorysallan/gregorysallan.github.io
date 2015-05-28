@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F4;
-	background-color: #7409B1;
+	color: #0000E0;
+	background-color: #DE8BCE;
 }
 
 @-ms-viewport
@@ -76,8 +76,8 @@
 	padding-left: 10px;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	color: #999999;
 	line-height: 14px;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -99,7 +99,7 @@
 	border-color: #F6F6F6;
 	background-color: #FFFFFF;
 	background-color: rgba(255,255,255,0.95);
-	padding-bottom: 1px;
+	padding-bottom: 2px;
 	position: relative;
 	border-width: 0px 0px 1px 1px;
 	-pie-background: rgba(255,255,255,0.95);
@@ -133,15 +133,13 @@
 	padding-bottom: 28px;
 	position: relative;
 	margin-right: -10000px;
-	top: 0px;
-	left: 0px;
 	border-width: 0px 0px 1px;
 }
 
 #u7220-4
 {
 	width: 187px;
-	min-height: 19px;
+	min-height: 17px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -149,23 +147,13 @@
 	position: relative;
 	margin-right: -10000px;
 	top: 14px;
-	left: 0px;
 }
 
 #u7219:hover #u7220-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 19px;
-	width: 187px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u7219.MuseMenuActive #u7220-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 19px;
+	min-height: 17px;
 	width: 187px;
 	margin: 0px -10000px 0px 0px;
 }
@@ -174,9 +162,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	font-size: 16px;
 	text-align: center;
 	line-height: 1.2;
-	font-size: 16px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -208,7 +196,7 @@
 	top: 14px;
 }
 
-#u8658:hover #u8660-4
+#u7219.MuseMenuActive #u7220-4,#u8658:hover #u8660-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -221,9 +209,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	font-size: 16px;
 	text-align: center;
 	line-height: 1.2;
-	font-size: 16px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -292,9 +280,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	font-size: 16px;
 	text-align: center;
 	line-height: 1.2;
-	font-size: 16px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -305,9 +293,9 @@
 {
 	color: #46CAD7;
 	visibility: inherit;
+	font-size: 16px;
 	text-align: center;
 	line-height: 1.2;
-	font-size: 16px;
 	font-family: source-sans-pro, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -446,8 +434,8 @@
 	width: 275px;
 	min-height: 21px;
 	background-color: transparent;
-	color: #696F6F;
 	text-align: center;
+	color: #696F6F;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 46px;
