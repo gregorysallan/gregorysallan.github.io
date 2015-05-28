@@ -1,7 +1,7 @@
 .version.contact_us /* version checker */
 {
-	color: #0000FE;
-	background-color: #A8D9DE;
+	color: #00001F;
+	background-color: #6DA85C;
 }
 
 .html
@@ -321,10 +321,10 @@
 	width: 916px;
 	min-height: 16px;
 	background-color: transparent;
-	line-height: 16px;
 	text-align: center;
 	font-size: 13px;
 	letter-spacing: 1px;
+	line-height: 16px;
 	color: #DEDEDE;
 	font-family: open-sans, sans-serif;
 	font-weight: 400;

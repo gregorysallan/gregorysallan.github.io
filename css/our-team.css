@@ -1,7 +1,7 @@
 .version.our_team /* version checker */
 {
-	color: #000011;
-	background-color: #C06436;
+	color: #000004;
+	background-color: #E4313D;
 }
 
 .html
@@ -103,9 +103,9 @@
 	width: 49px;
 	min-height: 24px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 22px;
 	font-size: 18px;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -121,9 +121,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	border-radius: 10px 0px 10px 0px ;
-	color: #FFFFFF;
 	line-height: 22px;
 	font-size: 18px;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -139,9 +139,9 @@
 	min-height: 24px;
 	background-color: transparent;
 	border-radius: 10px;
-	color: #FFFFFF;
 	line-height: 22px;
 	font-size: 18px;
+	color: #FFFFFF;
 	font-family: open-sans, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -175,8 +175,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	color: #F6F6F6;
-	text-align: left;
 	font-size: 18px;
+	text-align: left;
 	line-height: 22px;
 	font-family: open-sans, sans-serif;
 	font-weight: 800;
