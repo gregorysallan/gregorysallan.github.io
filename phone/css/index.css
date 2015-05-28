@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E0;
-	background-color: #DE8BCE;
+	color: #000000;
+	background-color: #F16223;
 }
 
 @-ms-viewport
@@ -99,7 +99,7 @@
 	border-color: #F6F6F6;
 	background-color: #FFFFFF;
 	background-color: rgba(255,255,255,0.95);
-	padding-bottom: 2px;
+	padding-bottom: 1px;
 	position: relative;
 	border-width: 0px 0px 1px 1px;
 	-pie-background: rgba(255,255,255,0.95);
@@ -171,6 +171,14 @@
 	padding: 0px;
 }
 
+#u8657
+{
+	width: 187px;
+	background-color: transparent;
+	margin-top: 2px;
+	position: relative;
+}
+
 #u8658
 {
 	width: 187px;
@@ -181,6 +189,13 @@
 	position: relative;
 	margin-right: -10000px;
 	border-width: 0px 0px 1px;
+}
+
+#u7219.MuseMenuActive,#u8658.MuseMenuActive
+{
+	width: 187px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u8660-4
@@ -205,6 +220,15 @@
 	margin: 0px -10000px 0px 0px;
 }
 
+#u8658.MuseMenuActive #u8660-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 17px;
+	width: 187px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u7219.MuseMenuActive #u7220-4 p,#u8658:hover #u8660-4 p
 {
 	color: #46CAD7;
@@ -218,78 +242,7 @@
 	padding: 0px;
 }
 
-#u8657,#u7232
-{
-	width: 187px;
-	background-color: transparent;
-	margin-top: 2px;
-	position: relative;
-}
-
-#u7235
-{
-	width: 187px;
-	border-style: solid;
-	border-color: #F6F6F6;
-	background-color: transparent;
-	padding-bottom: 27px;
-	position: relative;
-	margin-right: -10000px;
-	border-width: 0px 0px 1px;
-}
-
-#u7219.MuseMenuActive,#u8658.MuseMenuActive,#u7235.MuseMenuActive
-{
-	width: 187px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u7238-4
-{
-	width: 187px;
-	min-height: 17px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	line-height: 17px;
-	position: relative;
-	margin-right: -10000px;
-	top: 13px;
-}
-
-#u8658.MuseMenuActive #u8660-4,#u7235:hover #u7238-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 187px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u7235.MuseMenuActive #u7238-4
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 17px;
-	width: 187px;
-	margin: 0px -10000px 0px 0px;
-}
-
-#u8658.MuseMenuActive #u8660-4 p,#u7235:hover #u7238-4 p
-{
-	color: #46CAD7;
-	visibility: inherit;
-	font-size: 16px;
-	text-align: center;
-	line-height: 1.2;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 400;
-	font-style: normal;
-	padding: 0px;
-}
-
-#u7235.MuseMenuActive #u7238-4 p
+#u8658.MuseMenuActive #u8660-4 p
 {
 	color: #46CAD7;
 	visibility: inherit;
@@ -315,7 +268,7 @@
 
 #u7302
 {
-	z-index: 36;
+	z-index: 30;
 	width: 114px;
 	background-color: transparent;
 	position: relative;
@@ -402,7 +355,7 @@
 
 #u7316
 {
-	z-index: 38;
+	z-index: 32;
 	width: 16px;
 	min-height: 17px;
 	border-style: none;
@@ -416,7 +369,7 @@
 
 #u7969
 {
-	z-index: 39;
+	z-index: 33;
 	width: 282px;
 	min-height: 161px;
 	border-style: none;
@@ -430,7 +383,7 @@
 
 #u8302-4
 {
-	z-index: 40;
+	z-index: 34;
 	width: 275px;
 	min-height: 21px;
 	background-color: transparent;

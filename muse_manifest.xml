@@ -1,12 +1,12 @@
-<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1432827856518">
+<manifest alg="2" build="11" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1432829067889">
   <folder name="css">
     <file name="site_global.css" crc="391924887"/>
     <file name="contact-us.css" crc="527280220" ref="contact-us"/>
     <file name="iefonts_contact-us.css" crc="523080292" ref="contact-us"/>
-    <file name="index.css" crc="3842819963" ref="index"/>
-    <file name="iefonts_index.css" crc="3945526496" ref="index"/>
-    <file name="our-team.css" crc="82063677" ref="our-team"/>
-    <file name="iefonts_our-team.css" crc="283765211" ref="our-team"/>
+    <file name="index.css" crc="512441642" ref="index"/>
+    <file name="iefonts_index.css" crc="508291340" ref="index"/>
+    <file name="our-team.css" crc="337854581" ref="our-team"/>
+    <file name="iefonts_our-team.css" crc="354551409" ref="our-team"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>contact:index:our-team:contact-us"/>
@@ -18,7 +18,7 @@
     <file name="jquery.scrolleffects.js" crc="4038615763" ref="phone>index:phone>contact"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="phone>index:phone>contact:index:our-team:contact-us"/>
     <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>contact:index:our-team:contact-us"/>
-    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>contact:index:our-team"/>
     <file name="museredirect.js" crc="4117159434" ref="index"/>
   </folder>
   <folder name="images">
@@ -52,13 +52,13 @@
     <folder name="css">
       <file name="contact.css" crc="3952252735" ref="phone>contact"/>
       <file name="iefonts_contact.css" crc="125976052" ref="phone>contact"/>
-      <file name="index.css" crc="3772681166" ref="phone>index"/>
-      <file name="iefonts_index.css" crc="229148874" ref="phone>index"/>
+      <file name="index.css" crc="15819299" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3858673475" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="17027061" mt="1432827849094" redirect="true"/>
+    <file name="index.html" crc="3782265644" mt="1432829020379" redirect="true"/>
     <file name="contact.html" crc="254303935" mt="1431644289381" redirect="true"/>
   </folder>
-  <file name="index.html" crc="4236752727" mt="1432827605509" redirect="true"/>
-  <file name="our-team.html" crc="54798566" mt="1432827613377" redirect="true"/>
+  <file name="index.html" crc="516336509" mt="1432829042055" redirect="true"/>
+  <file name="our-team.html" crc="66667130" mt="1432829057257" redirect="true"/>
   <file name="contact-us.html" crc="427783811" mt="1432827625033" redirect="true"/>
 </manifest>
