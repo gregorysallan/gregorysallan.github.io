@@ -1,0 +1,6 @@
+<!DOCTYPE html>
+<html>
+<body>
+<img src="images/ian.jpeg">
+</body>
+</html>
